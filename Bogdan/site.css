@@ -1,0 +1,27 @@
+﻿.div1 {
+	position: absolute;
+	overflow: hidden;
+	font-size: 120px;
+	left: -2000px;
+	visibility: hidden;
+	width: 917px;
+	height: 137px;
+}
+
+.div2 {
+	position: relative;
+	white-space: nowrap;
+	font-family: arial, serif;
+}
+
+.div3 {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.div4 {
+	width: 919px;
+	height: 139px;
+}
