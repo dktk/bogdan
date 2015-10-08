@@ -75,9 +75,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="contact.html" />
     <Content Include="despre.html" />
     <Content Include="back.html" />
-    <Content Include="HtmlPage1.html" />
     <Content Include="Images\compass.png" />
     <Content Include="Images\engineering.jpg" />
     <Content Include="Images\iscir.png" />
@@ -89,6 +89,7 @@
     <Content Include="Portofolio\paris\main.jpg" />
     <Content Include="Portofolio\paris\paris1.jpg" />
     <Content Include="Portofolio\paris\paris2.jpg" />
+    <Content Include="servicii.html" />
     <Content Include="site.css" />
     <Content Include="template.css" />
     <Content Include="Web.config" />
