@@ -5,15 +5,15 @@
 }
 
 
-.navbar{
-	margin:0;
-	padding:0;
+.navbar {
+	margin: 0;
+	padding: 0;
 }
 
-.navbar > .container {
-	padding-top:0.4em;
-	padding-bottom: 0.6em;
-}
+	.navbar > .container {
+		padding-top: 0.4em;
+		padding-bottom: 0.6em;
+	}
 
 .navbar-default {
 	background-color: #fff;
@@ -37,7 +37,6 @@
 
 	.navbar-default .navbar-brand {
 		font-size: 1.8em;
-		margin-right: 265px;
 		letter-spacing: 1px;
 		color: #010416;
 		text-transform: uppercase;
@@ -46,6 +45,12 @@
 .navbar-nav > li {
 	margin-right: 45px;
 	letter-spacing: 2px;
+}
+
+.center-block {
+	float: none;
+	margin: 0 auto;
+	padding-top: 1.5em;
 }
 
 .footer {
@@ -57,10 +62,7 @@
 }
 
 	.footer .center-block {
-		float: none;
-		margin: 0 auto;
 		width: 200px;
-		padding-top:1.5em;
 	}
 
 
@@ -138,6 +140,10 @@
 -------------------------------------------------- */
 
 @media (min-width: 768px) {
+	.navbar-default .navbar-brand {
+		margin-right: 265px;
+	}
+
 	/* Navbar positioning foo */
 	.navbar-wrapper {
 		margin-top: 20px;
@@ -172,3 +178,28 @@
 }
 
 /* Carousel */
+
+
+
+/* About */
+.about {
+	margin-top: 2em;
+}
+
+	.about p {
+		margin-bottom: 1.5em;
+	}
+
+	.about .activities > div {
+		margin-bottom: 2em;
+	}
+
+	.about .activities p {
+		border-top: solid 1px #010416;
+	}
+
+	.about .activities img {
+		display: block;
+		margin-bottom: 1.1em;
+	}
+/* About */
