@@ -65,7 +65,7 @@
 		</ol>
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
-				<img class="first-slide" src="/Portofolio/orientului/main.jpg" alt="Lucrare Str. Orientului">
+				<img class="first-slide" src="Portofolio/orientului/main.jpg" alt="Lucrare Str. Orientului">
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Lucrare Str. Orientului</h1>
@@ -75,7 +75,7 @@
 				</div>
 			</div>
 			<div class="item left">
-				<img class="second-slide" src="/Portofolio/paris/main.jpg" alt="Lucrare Str Paris">
+				<img class="second-slide" src="Portofolio/paris/main.jpg" alt="Lucrare Str Paris">
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Lucrare Str Paris</h1>
@@ -105,9 +105,10 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	<script type="text/javascript">
-		// interval is in milliseconds. 1000 = 1 second - so 1000 * 10 = 10 seconds
-		$('#myCarousel').carousel({
-			interval: 5500
+		$(function () {
+			$('#myCarousel').carousel({
+				interval: 5500
+			});
 		});
 	</script>
 	<!--todo: add google analytics-->

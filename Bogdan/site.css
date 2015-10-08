@@ -6,7 +6,7 @@
 
 h1 {
 	font-size: 1.6em;
-	border-bottom: solid 1px #fff;
+	border-bottom: solid 1px #aa1b1b;
 }
 
 h2 {
@@ -220,6 +220,10 @@ h2 {
 
 /* Contact */
 
+.contact .details, 
+.contact #map {
+	height: 350px;
+}
 .contact .details > * {
 	display: block;
 }
@@ -228,4 +232,15 @@ h2 {
 	color: #237096;
 }
 
+.contact #map {
+	width: 600px;
+}
+
+.contact h2 {
+	border-bottom: solid 1px #aa1b1b;
+}
+
+.contact .contact-form {
+	margin-top: 25px;
+}
 /* Contact */

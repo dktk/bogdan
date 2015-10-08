@@ -59,9 +59,44 @@
 
 	<div class="container contact">
 		<h1>Informatii de contact</h1>
+
 		<div class="row contact">
 			<div class="col-md-6">
-				<h2>Contacteaza-ne</h2>
+				<div id="map">
+				</div>
+			</div>
+			<div class="col-md-5 details">
+				<div>
+					<em>
+						ADVANCED DESIGN SRL
+					</em>
+				</div>
+				<strong>
+					Ing. Tuns Bogdan
+				</strong>
+				<address>
+					Str. Horea, nr. 1, ap. 53-54
+					<br />
+					Satu Mare
+				</address>
+				<span>
+					CUI 34806116   
+				</span>
+				<span>
+					J30/495/2015
+				</span>
+				<div>
+					telefon: <strong>+40 740 38 18 82</strong>
+				</div>
+			</div>
+		</div>
+
+		<div class="row contact-form">
+			<h2>Contacteaza-ne</h2>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6">
 				<form action="">
 					<div class="input-group">
 						<span class="input-group-addon">
@@ -82,7 +117,7 @@
 						<span class="input-group-addon">
 							<i class="glyphicon glyphicon-pencil" aria-hidden="true"></i>
 						</span>
-						<textarea class="form-control" placeholder="Mesaj"></textarea>
+						<textarea class="form-control" placeholder="Mesaj" rows="6"></textarea>
 					</div>
 
 					<div class="pull-right">
@@ -90,30 +125,7 @@
 					</div>
 				</form>
 			</div>
-			<div class="col-md-5 details">
-				<h2>Detalii</h2>
-				<div>
-					<em>
-						ADVANCED DESIGN SRL
-					</em>
-				</div>
-				<strong>
-					Ing. Tuns Bogdan
-				</strong>
-				<address>
-					Str. Horea, nr. 1, ap. 53-54
-					<br />
-					Satu Mare
-				</address>
-				<span>
-					CUI 34806116   J30/495/2015
-				</span>
-				<div>
-					telefon: <strong>+40 740 38 18 82</strong>
-				</div>
-			</div>
 		</div>
-
 	</div>
 
 	<footer class="footer">
@@ -125,6 +137,33 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		function initMap() {
+			map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 16,
+				center: { lat: 47.793750, lng: 22.877049 },
+				disableDefaultUI: true
+			});
+
+
+			var marker = new google.maps.Marker({
+				position: { lat: 47.793410757080816, lng: 22.877106850926137 },
+				map: map,
+				title: 'Advanced Design',
+				animation: google.maps.Animation.DROP
+			});
+			//marker.addListener('click', toggleBounce);
+			var infowindow = new google.maps.InfoWindow({
+				content: "Advanced Design SRL"
+			});
+			marker.addListener('click', function () {
+				infowindow.open(map, marker);
+			});
+
+			
+		}
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4XHmj5jVAuB0PlM_o8iY1LOVHVtMkqrg&signed_in=true&hl=ro&callback=initMap" async defer></script>
 	<!--todo: add google analytics-->
 </body>
 </html>

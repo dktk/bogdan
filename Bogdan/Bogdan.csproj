@@ -81,7 +81,7 @@
     <Content Include="Images\compass.png" />
     <Content Include="Images\engineering.jpg" />
     <Content Include="Images\iscir.png" />
-    <Content Include="Index.html" />
+    <Content Include="index.html" />
     <Content Include="Portofolio\orientului\main.jpg" />
     <Content Include="Portofolio\orientului\orientului1.jpg" />
     <Content Include="Portofolio\orientului\orientului2.jpg" />
