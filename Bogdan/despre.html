@@ -28,7 +28,7 @@
 	<!--todo: remove the wix stuff-->
 	<link rel="shortcut icon" href="http://www.wix.com/favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon" href="http://www.wix.com/favicon.ico" type="image/x-icon">
-	
+
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="site.css" />
@@ -47,9 +47,9 @@
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="/">Acasa</a></li>
+					<li><a href="/">Acasa</a></li>
 					<li><a href="servicii.html">Servicii</a></li>
-					<li><a href="despre.html">Despre noi</a></li>
+					<li class="active"><a href="despre.html">Despre noi</a></li>
 					<li><a href="contact.html">Contact</a></li>
 				</ul>
 
@@ -57,42 +57,28 @@
 		</div>
 	</nav>
 
-	<div id="myCarousel" class="carousel slide" data-ride="carousel">
-		<!-- Indicators -->
-		<ol class="carousel-indicators">
-			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-			<li data-target="#myCarousel" data-slide-to="1" class=""></li>
-		</ol>
-		<div class="carousel-inner" role="listbox">
-			<div class="item active">
-				<img class="first-slide" src="/Portofolio/orientului/main.jpg" alt="Lucrare Str. Orientului">
-				<div class="container">
-					<div class="carousel-caption">
-						<h1>Lucrare Str. Orientului</h1>
-						<p>Aici mai trebuie niste descriere</p>
-						<p><a class="btn btn-lg btn-primary" href="#" role="button">Mai multe detalii</a></p>
-					</div>
-				</div>
+	<div class="container about">
+		<div class="row activities">
+			<div class="col-md-4">
+				<img src="Images/compass.png" alt="compass" class="center-block" />
+				<p>
+					Firma <em>ADVANCED DESIGN SRL</em> are ca obiect principal de activitate proiectarea, consultanta si urmarirea de santier in domeniul instalatiilor pentru constructii civile si industriale.
+				</p>
 			</div>
-			<div class="item left">
-				<img class="second-slide" src="/Portofolio/paris/main.jpg" alt="Lucrare Str Paris">
-				<div class="container">
-					<div class="carousel-caption">
-						<h1>Lucrare Str Paris</h1>
-						<p>Aici intra descrierea</p>
-						<p><a class="btn btn-lg btn-primary" href="#" role="button">Mai multe detalii</a></p>
-					</div>
-				</div>
+
+			<div class="col-md-4">
+				<img src="Images/iscir.png" alt="ISCIR" class="center-block" />
+				<p>
+					Totodata firma si-a diversificat activitatea autorizandu-se ISCIR pentru verificarea in utilizare a cazanelor si aparatelor consumatoare de combustibil avand Pmax ≤ 400 kW.
+				</p>
+			</div>
+			<div class="col-md-4">
+				<img src="/Images/engineering.jpg" alt="engineering" class="center-block" />
+				<p>
+					Solutiile pe care le propunem in cadrul fiecarui proiect reprezinta raportul optim intre investitie si eficienta tehnica, urmarind implementarea ultimelor tendinte in domeniu.
+				</p>
 			</div>
 		</div>
-		<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-			<span class="sr-only">Inapoi</span>
-		</a>
-		<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-			<span class="sr-only">Inainte</span>
-		</a>
 	</div>
 
 	<footer class="footer">

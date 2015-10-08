@@ -75,9 +75,20 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="despre.html" />
     <Content Include="back.html" />
     <Content Include="HtmlPage1.html" />
+    <Content Include="Images\compass.png" />
+    <Content Include="Images\engineering.jpg" />
+    <Content Include="Images\iscir.png" />
     <Content Include="Index.html" />
+    <Content Include="Portofolio\orientului\main.jpg" />
+    <Content Include="Portofolio\orientului\orientului1.jpg" />
+    <Content Include="Portofolio\orientului\orientului2.jpg" />
+    <Content Include="Portofolio\orientului\orientului3.jpg" />
+    <Content Include="Portofolio\paris\main.jpg" />
+    <Content Include="Portofolio\paris\paris1.jpg" />
+    <Content Include="Portofolio\paris\paris2.jpg" />
     <Content Include="site.css" />
     <Content Include="template.css" />
     <Content Include="Web.config" />
