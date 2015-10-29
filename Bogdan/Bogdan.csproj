@@ -66,6 +66,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="carousel\analizator-gaze.jpg" />
+    <Content Include="carousel\centru-pastoral.jpg" />
+    <Content Include="carousel\instalatii-termice-si-sanitare.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -77,7 +80,6 @@
   <ItemGroup>
     <Content Include="contact.html" />
     <Content Include="despre.html" />
-    <Content Include="back.html" />
     <Content Include="Images\compass.png" />
     <Content Include="Images\engineering.jpg" />
     <Content Include="Images\iscir.png" />
@@ -89,9 +91,11 @@
     <Content Include="Portofolio\paris\main.jpg" />
     <Content Include="Portofolio\paris\paris1.jpg" />
     <Content Include="Portofolio\paris\paris2.jpg" />
+    <Content Include="portofoliu.html" />
     <Content Include="servicii.html" />
     <Content Include="site.css" />
     <Content Include="template.css" />
+    <Content Include="todo.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
