@@ -195,6 +195,14 @@ h2 {
 		border-left: solid 1px;
 		float:right !important;
 	}
+	
+	.contact .btn {
+		background-color:#aa1b1b;
+		color: #fff;
+		letter-spacing: 1px;
+		margin-top: 3px;
+		font-family: Geneva;
+	}
 }
 
 /* Carousel */
