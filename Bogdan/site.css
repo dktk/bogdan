@@ -2,7 +2,7 @@
 	font-family: 'open sans condensed', sans-serif;
 	font-size: 17px;
 
-	max-width:1124px;
+	max-width:1120px;
 
 	margin-left:auto;
 	margin-right:auto;
@@ -59,7 +59,7 @@ h2 {
 		color: #94276D !important;
 	}
 .navbar-nav > li {
-	margin-right: 45px;
+	margin-right: 20px;
 	letter-spacing: 2px;
 }
 
