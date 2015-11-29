@@ -1,0 +1,29 @@
+demographic
+
+increase exposure
+
+low traffic/high convertion
+
+
+Starter list
+- instalatii satu mare
+- inginer instalatii satu mare
+- inginer instalatii satu-mare
+- inginer in instalatii
+- iscir
+- autorizari iscir
+- verificari periodice iscir
+- autorizatii mediu
+- autorizatii mediu satu mare
+- proiecte instalatii
+
+
+Base				Modifiers			Extenders
+=======				=========			=========
+inginer				instalator			profesionale
+instalatii			in instalatii		complete
+proiect				satu mare			periodice
+proiectare			electrice			rapid
+autorizari			gaz					
+iscir				sanitare
+					
