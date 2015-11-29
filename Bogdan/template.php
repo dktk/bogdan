@@ -1,7 +1,7 @@
 <?php
 
 function LoadTemplate($title, $description, $keywords, $template) {
-	require '../libs/Smarty.class.php';
+	require './libs/Smarty.class.php';
 
 	$smarty = new Smarty;
 	
