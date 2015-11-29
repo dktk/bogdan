@@ -5,11 +5,11 @@
 	LoadTemplate(
 			"Advanced Design - Satu Mare",
 
-			"Advanced Design - Contacteaza-ne.",
+			"Advanced Design - Consultanta si excelenta in instalatii",
 
 			// todo: keywords
 			"Inginer instalator",
 
-			"contact"
+			"thankyou"
 	);
 ?>

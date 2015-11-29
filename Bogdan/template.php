@@ -17,7 +17,7 @@ function LoadTemplate($title, $description, $keywords, $template) {
 				'Servicii'=>'servicii.php',
 				'Portofoliu'=>'portofoliu.php', 
 				'Despre noi' => 'despre.php', 
-				'Contact' => 'contact.html'); 
+				'Contact' => 'contact.php'); 
 	
 	$smarty->assignByRef('SelMenu', $template); 
 	$smarty->assignByRef('Menu', $menu); 
