@@ -1,4 +1,4 @@
-{include file="header.tpl" title="Advanced Design - Satu Mare"}
+{include file="_header.tpl" title="Advanced Design - Satu Mare"}
 
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
@@ -74,4 +74,4 @@
 	</div>
 
 
-{include file="footer.tpl"}
+{include file="_footer.tpl"}

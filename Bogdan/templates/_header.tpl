@@ -7,7 +7,6 @@
 		For more information about Ajax Crawling technology, read Google's explanation here: https://developers.google.com/webmasters/ajax-crawling/
 	-->
 
-
 	<meta charset="utf-8">
 
 	<link rel="canonical" href="http://advanceddesign.ro/">
