@@ -1,5 +1,3 @@
-{include file="_header.tpl" title="Advanced Design - Satu Mare"}
-
 <div class="container services">
 		<h1>Servicii</h1>
 		<dl>
@@ -62,6 +60,3 @@
 		</dl>
 
 	</div>
-	
-
-{include file="_footer.tpl"}

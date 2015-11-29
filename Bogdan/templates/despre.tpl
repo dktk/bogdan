@@ -1,5 +1,3 @@
-{include file="_header.tpl" title=""}
-
 <div class="container about">
 	<h1>Despre noi</h1>
 	<div class="row activities">
@@ -24,5 +22,3 @@
 		</div>
 	</div>
 </div>
-
-{include file="_footer.tpl"}

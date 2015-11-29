@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-	<url><loc>http://www.advanceddesign.ro/despre.html</loc></url>
-	<url><loc>http://www.advanceddesign.ro/contact.html</loc></url>
-	<url><loc>http://www.advanceddesign.ro/index.html</loc></url>
-	<url><loc>http://www.advanceddesign.ro/servicii.html</loc></url>
-	<url><loc>http://www.advanceddesign.ro/portofoliu.html</loc></url>
+	<url><loc>http://www.advanceddesign.ro/despre.php</loc></url>
+	<url><loc>http://www.advanceddesign.ro/contact.php</loc></url>
+	<url><loc>http://www.advanceddesign.ro/index.php</loc></url>
+	<url><loc>http://www.advanceddesign.ro/servicii.php</loc></url>
+	<url><loc>http://www.advanceddesign.ro/portofoliu.php</loc></url>
 </urlset>

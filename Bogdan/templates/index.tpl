@@ -1,5 +1,3 @@
-{include file="_header.tpl" title="Advanced Design - Satu Mare"}
-
 	<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
 		<ol class="carousel-indicators">
@@ -72,6 +70,3 @@
 			urmarind implementarea ultimelor tendinte in domeniu.
 		</p>
 	</div>
-
-
-{include file="_footer.tpl"}

@@ -55,14 +55,11 @@
 				<a class="navbar-brand" href="/">Advanced Design</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
-				<ul class="nav navbar-nav">
-					<li class="active"><a href="/">Acasa</a></li>
-					<li><a href="servicii.html">Servicii</a></li>
-					<li><a href="portofoliu.html">Portofoliu</a></li>
-					<li><a href="despre.html">Despre noi</a></li>
-					<li><a href="contact.html">Contact</a></li>
-				</ul>
-
+			<ul class="nav navbar-nav"> 
+			{foreach from=$Menu key=k item=i} 
+				<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li> 
+			{/foreach} 
+			</ul> 
 			</div><!--/.nav-collapse -->
 		</div>
 	</nav>
