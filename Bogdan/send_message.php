@@ -17,7 +17,7 @@ function endsWith($haystack, $needle) {
 }
 
 function sendMail($name, $phone, $email, $message) {
-	$to      = 'calin.tuns@gmail.com';
+	$to      = 'bogdantuns@yahoo.com';
 	$subject = 'Advanced Design - Contact message';
 	$headers = 'From: webmaster@advanceddesign.ro' . "\r\n" .
     'Reply-To: webmaster@example.com' . "\r\n" .

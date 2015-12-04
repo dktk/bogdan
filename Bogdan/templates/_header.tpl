@@ -24,8 +24,8 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="site.css" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="/scripts/jquery.min.js"></script>
+	<script src="/scripts/bootstrap.min.js"></script>
 </head>
 <body>
 	<!-- Google Tag Manager -->
@@ -55,11 +55,11 @@
 				<a class="navbar-brand" href="/">Advanced Design</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
-			<ul class="nav navbar-nav"> 
-			{foreach from=$Menu key=k item=i} 
-				<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li> 
-			{/foreach} 
-			</ul> 
+				<ul class="nav navbar-nav"> 
+				{foreach from=$Menu key=k item=i} 
+					<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li> 
+				{/foreach} 
+				</ul> 
 			</div><!--/.nav-collapse -->
 		</div>
 	</nav>

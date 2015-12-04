@@ -1,4 +1,19 @@
-﻿contact post
-key words
+﻿SEO
+	- Assign existing, or create new, pages for each keyword.
+	Add social media sharing buttons.		
+	Create and submit an XML sitemap.
+	Set-up Google Analytics and Search Console.
+	Set-up a Google+ page for your business. 
+	Sign up for Ahrefs or Open Site Explorer. Doing so gives you access to extensive backlink data for your site and also your competitors’ sites.
+ 	Within Google Search Console, go to ‘Traffic’ and then ‘Search Queries’ to check where your site is ranking for keywords.
+	Include a page’s target keyword phrase, or variations of it, in the file names and img alt tags of the images on that page.
+	Use header tags. Include variations of your target keyword phrases in a page’s H1 and H2 tags.
+
 register with webmaster 
-master page
+re-styling
+	portofolio
+		http://themeforest.net/item/archos-for-architect-construction-business/full_screen_preview/13295667
+		http://themeforest.net/item/archos-for-architect-construction-business/full_screen_preview/13295667
+		
+	
+change the recipient of the contact email to be bogdan
