@@ -27,7 +27,7 @@
         
         <!-- ABOUT -->
         <div class="col-md-4"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="">
-          <p>Proiectare si expertiza in instalatii la Satu Mare.</p>
+          <p>Proiectare si expertiza in instalatii la Satu Mare</p>
           <ul class="social">
             <li><a href="#."><i class="fa fa-facebook"></i></a></li>
             <li><a href="#."><i class="fa fa-twitter"></i></a></li>
@@ -76,7 +76,7 @@
   
   <!-- RIGHTS -->
   <div class="rights">
-    <p> Copyright � 2015    All Rights Reserved </p>
+    <p> © Advanced Design 2015 </p>
   </div>
 </div>
 <script src="js/jquery-1.11.0.min.js"></script> 
