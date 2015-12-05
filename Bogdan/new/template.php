@@ -22,9 +22,9 @@ function LoadTemplate($title, $description, $keywords, $template) {
 	$smarty->assignByRef('SelMenu', $template); 
 	$smarty->assignByRef('Menu', $menu); 
 
-	$smarty->display('./templates/_header.tpl');
-	$smarty->display('./templates/'. $template . '.tpl');
-	$smarty->display('./templates/_footer.tpl');
+	$smarty->display('./templates/header.php');
+	$smarty->display('./templates/'. $template . '.php');
+	$smarty->display('./templates/footer.php');
 }	
 
 ?>

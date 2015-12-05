@@ -93,7 +93,7 @@
                 <li class="col-md-6"> <img class="img-responsive" src="images/intro-img-2.jpg" alt="">
                   <div class="intro-ser">
                     <div class="tag"><img src="images/intro-icon-2.png" alt=""></div>
-                    <h6 class="font-normal no-margin margin-bottom-20">Design and build</h6>
+                    <h6 class="font-normal no-margin margin-bottom-20">Diriginte de santier</h6>
                     <p class="line-height-22">What might be right for you may not be to right for some. Now the world don't move to the som beat of
                       just one drumu sathsa. </p>
                     <a href="#" class="font-pt">mai multe</a> </div>
