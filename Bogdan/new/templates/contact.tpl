@@ -1,103 +1,130 @@
-	<div class="container contact">
-		<h1>Informatii de contact</h1>
-
-		<div class="row contact">
-			<div class="col-md-6">
-				<div id="map">
-				</div>
-			</div>
-			<div class="col-md-5 details">
-				<div>
-					<em>
-						ADVANCED DESIGN SRL
-					</em>
-				</div>
-				<strong>
-					Ing. Tuns Bogdan
-				</strong>
-				<address>
-					Str. Horea, nr. 1, ap. 53-54
-					<br />
-					Satu Mare
-				</address>
-				<span>
-					CUI 34806116
-				</span>
-				<span>
-					J30/495/2015
-				</span>
-				<br />
-				<div>
-					telefon: <strong>+40 740 38 18 82</strong>
-				</div>
-			</div>
-		</div>
-
-		<div class="row contact-form">
-			<h2>Contacteaza-ne</h2>
-		</div>
-
-		<div class="row">
-			<div class="col-md-6">
-				<div id="email-error-dialog"></div>
-
-				<form action="send_message.php" method="post" id="myForm">
-					<div class="input-group">
-						<span class="input-group-addon">
-							<i class="glyphicon glyphicon-user" aria-hidden="true"></i>
-						</span>
-
-						<input
-							type="text" name="name" id="name" class="form-control" 
-							data-validation="required" placeholder="Nume" 
-							data-validation-error-msg-container="#email-error-dialog"	
-							/>
-					</div>
-
-					<div class="input-group">
-						<span class="input-group-addon">
-							<i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>
-						</span>
-						<input type="text" name="email" id="email" 
-							class="form-control" placeholder="Email" data-validation="required" 
-							data-validation="email" 
-							data-validation-error-msg-container="#email-error-dialog"/>
-					</div>
-
-					<div class="input-group">
-						<span class="input-group-addon">
-							<i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>
-						</span>
-						<input type="text" name="phone" id="phone" class="form-control" 
-								placeholder="Telefon - 0798 765 432" data-validation="required" 
-								pattern="^07\d\d\s\d\d\d\s\d\d\d" data-validation="phone"
-								data-validation-error-msg-container="#email-error-dialog"/>
-					</div>
-
-					<div class="input-group">
-						<span class="input-group-addon">
-							<i class="glyphicon glyphicon-pencil" aria-hidden="true"></i>
-						</span>
-						<textarea
-							class="form-control" name="message" id="message" placeholder="Mesaj" 
-							data-validation="required" 
-							rows="6"
-							pattern="^[a-z][A-Z]+"
-							data-validation-error-msg-container="#email-error-dialog">
-							</textarea>
-					</div>
-
-					<div class="pull-right">
-						<input type="submit" class="btn btn-button" value="Trimite" />
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.2.8/jquery.form-validator.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<section class="sub-bnr">
+    <div class="position-center-center">
+      <div class="container">
+        <h4>Contact</h4>
+        <hr class="main">
+        <!-- Breadcrumb -->
+        <ol class="breadcrumb">
+          <li><a href="/">Acasa</a></li>
+          <li class="active">Contact</li>
+        </ol>
+      </div>
+    </div>
+    <div class="scroll"> <a href="#content" class="go-down"></a></div>
+  </section>
+	
+	
+<div id="content"> 
+    
+    <!-- LATEST WORK -->
+    <section class="contact-page padding-top-100 padding-bottom-100">
+      <div class="container">
+        <div class="row margin-top-100 margin-bottom-100">
+          <div class="col-md-8">
+            <div class="heading text-left margin-bottom-20">
+              <h3> Contacteaza-<span>ne</span></h3>
+              <hr>
+            </div>
+            
+            <div class="contact-form"> 
+              
+              <!-- Form  -->
+              <div class="margin-top-50">
+                <div class="contact-form"> 
+                  
+                  <!-- Success Msg -->
+                  <div id="contact_message" class="success-msg"> <i class="fa fa-paper-plane-o"></i>Thank You. Your Message has been Submitted</div>
+                  
+                  <!-- FORM -->
+                  <form role="form" id="contact_form" class="contact-form" method="post" action="send_message.php">
+                    <ul class="row">
+                      <li class="col-sm-12">
+                        <label>
+                          <input type="text" class="form-control" name="name" id="name" placeholder="Nume">
+                        </label>
+                      </li>
+                      <li class="col-sm-12">
+                        <label>
+                          <input type="text" class="form-control" name="email" id="email" placeholder="EMAIL">
+                        </label>
+                      </li>
+					   <li class="col-sm-12">
+                        <label>
+                          <input type="text" class="form-control" name="phone" id="phone" placeholder="TELEFON">
+                        </label>
+                      </li>
+					  
+                      <li class="col-sm-12">
+                        <label>
+                          <input type="text" class="form-control" name="subject" id="subject" placeholder="SUBIECT">
+                        </label>
+                      </li>
+                      <li class="col-sm-12 margin-top-20">
+                        <label>
+                          <textarea class="form-control" name="message" id="message" rows="5" placeholder=""></textarea>
+                        </label>
+                      </li>
+                      <li class="col-sm-12">
+                        <button type="submit" value="submit" id="btn_submit" class="btn btn-yellow" onclick="proceed();">Trimite</button>
+                      </li>
+                    </ul>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="heading text-left margin-bottom-20">
+              <h3> Solutions <span>For</span></h3>
+              <hr>
+            </div>
+            <ul class="services-intro">
+              <!-- Architecture -->
+              <li>
+                <div class="media-left">
+                  <div class="icon"><img src="images/intro-icon-3.png" alt=""></div>
+                </div>
+                <div class="media-body">
+                  <h6 class="font-normal margin-bottom-10">Architecture</h6>
+                  <p>Create your dream house with us</p>
+                </div>
+              </li>
+              <!-- Interior Design -->
+              <li>
+                <div class="media-left">
+                  <div class="icon"><img src="images/intro-icon-4.png" alt=""></div>
+                </div>
+                <div class="media-body">
+                  <h6 class="font-normal margin-bottom-10">Interior Design</h6>
+                  <p>A new touch is always welcome</p>
+                </div>
+              </li>
+              <!-- Consulting -->
+              <li>
+                <div class="media-left">
+                  <div class="icon"><img src="images/intro-icon-5.png" alt=""></div>
+                </div>
+                <div class="media-body">
+                  <h6 class="font-normal margin-bottom-10">Consulting</h6>
+                  <p>Fresh minds with creative ideas</p>
+                </div>
+              </li>
+              <!-- Special Projects -->
+              <li>
+                <div class="media-left">
+                  <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
+                </div>
+                <div class="media-body">
+                  <h6 class="font-normal margin-bottom-10">Special Projects</h6>
+                  <p>We do best work to your projects</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.2.8/jquery.form-validator.min.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4XHmj5jVAuB0PlM_o8iY1LOVHVtMkqrg&signed_in=true&hl=ro&callback=initMap" async defer></script>
 	<script type="text/javascript">
 		function initMap() {
@@ -174,3 +201,4 @@
 		language: ro
   });
 </script>
+</section>

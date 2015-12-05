@@ -16,21 +16,22 @@ function endsWith($haystack, $needle) {
     return $needle === "" || (($temp = strlen($haystack) - strlen($needle)) >= 0 && strpos($haystack, $needle, $temp) !== FALSE);
 }
 
-function sendMail($name, $phone, $email, $message) {
-	$to      = 'bogdantuns@yahoo.com';
-	$subject = 'Advanced Design - Contact message';
+function sendMail($name, $subject, $phone, $email, $message) {
+	$to      = 'calin.tuns@gmail.com';
+	$standardSubject = 'Advanced Design - Contact message';
 	$headers = 'From: webmaster@advanceddesign.ro' . "\r\n" .
     'Reply-To: webmaster@example.com' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
 mail($to, $subject, $message, $headers);
-	mail($to, $subject, $email . "\r\n" . $message, $headers);
+	mail($to, $standardSubject, $subject.$email . "\r\n" . $message, $headers);
 }
 
 function handlePost() {
 	 $name = $_POST["name"];
 	 $phone = $_POST["phone"];
 	 $message= $_POST["message"];
+	 $subject = $_POST["subject"];
 	 $email = $_POST["email"];
 	 
 	 $url = "http://www.advanceddesign.ro/";
@@ -38,7 +39,7 @@ function handlePost() {
 	 if (endswith($_SERVER['HTTP_HOST'], ":10088"))
 		 $url = "http://localhost:10088/";
 
-	sendMail($name, $phone, $email, $message);
+	sendMail($name, $subject, $phone, $email, $message);
 		 
 	Redirect($url . "contact-thankyou.php");
  }
