@@ -1,5 +1,19 @@
+		<section class="sub-bnr">
+    <div class="position-center-center">
+      <div class="container">
+        <h4>Serviciile noastre</h4>
+        <hr class="main">
+        <!-- Breadcrumb -->
+        <ol class="breadcrumb">
+          <li><a href="/">Acasa</a></li>
+          <li class="active">Servicii</li>
+        </ol>
+      </div>
+    </div>
+    <div class="scroll"> <a href="#content" class="go-down"></a></div>
+  </section>
 <div class="container services">
-		<h1>Servicii</h1>
+		
 		<dl>
 
 			<dt>Proiectare si executie instalatii de gaz</dt>
