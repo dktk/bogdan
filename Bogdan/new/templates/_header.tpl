@@ -70,11 +70,10 @@
             <li style=""> <a href="despre.php">Despre noi</a> </li>
             <li style=""> <a href="servicii.php">Servicii</a> </li>
             <li style=""> <a href="portofoliu.php">Portofoliu</a> </li>
-            <li style=""> <a href="contact.php">Contact</a> </li>
           </ul>
           
           <!-- GET A QUOTES -->
-          <div class="quotes"> <a href="#" class="customcolor"><i class="fa fa-pencil-square-o"></i> GET A QUOTES </a> </div>
+          <div class="quotes"> <a href="contact.php" class="customcolor"><i class="fa fa-pencil-square-o"></i> Contacteaza-ne </a> </div>
         </nav>
       </div>
     </header>

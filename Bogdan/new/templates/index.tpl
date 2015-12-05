@@ -34,7 +34,7 @@
               <!-- LAYER NR. 4 -->
               <div class="tp-caption font-lora letter-space-4 sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="180"
               data-speed="500" data-start="1900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-              data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7;"><a href="#." class="btn btn-blue margin-right-20">READ MORE</a> <a href="#." class="btn btn-white margin-left-20">GET START</a>                </div>
+              data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7;"><a href="#." class="btn btn-blue margin-right-20">mai multe</a> <a href="#." class="btn btn-white margin-left-20">GET START</a>                </div>
             </li>
             <!-- SLIDE  -->
             <li data-transition="random" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
@@ -61,7 +61,7 @@
               <!-- LAYER NR. 4 -->
               <div class="tp-caption font-lora letter-space-4 sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="180"
               data-speed="500" data-start="1900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-              data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7;"><a href="#." class="btn btn-blue margin-right-20">READ MORE</a> <a href="#." class="btn btn-white margin-left-20">GET START</a>                </div>
+              data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7;"><a href="#." class="btn btn-blue margin-right-20">mai multe</a> <a href="#." class="btn btn-white margin-left-20">GET START</a>                </div>
             </li>
           </ul>
         </div>
@@ -94,7 +94,7 @@
                     <p class="line-height-22">
                       Excelenta rezulta din experienta si studiu. Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu. 
                     </p>
-                    <a href="#" class="font-pt">read more</a> </div>
+                    <a href="#" class="font-pt">mai multe</a> </div>
                 </li>
 
                 <!-- Design and build -->
@@ -104,7 +104,7 @@
                     <h6 class="font-normal no-margin margin-bottom-20">Design and build</h6>
                     <p class="line-height-22">What might be right for you may not be to right for some. Now the world don't move to the som beat of
                       just one drumu sathsa. </p>
-                    <a href="#" class="font-pt">read more</a> </div>
+                    <a href="#" class="font-pt">mai multe</a> </div>
                 </li>
               </ul>
             </div>
@@ -180,14 +180,19 @@
               <div class="text-right">
                 <ul>
                   <li><a class="active" data-toggle="tab" href="#." data-filter="*">Toate proiectele </a>|</li>
-                  <li><a href="#" data-filter=".interior">Interior Design </a>|</li>
-                  <li><a href="#" data-filter=".building">Building </a>|</li>
-                  <li><a href="#" data-filter=".construction">Construction </a>|</li>
-                  <li><a href="#" data-filter=".renovate">Renovate</a></li>
+                  <li><a href="#" data-filter=".interior">Gaz </a>|</li>
+                  <li><a href="#" data-filter=".building">Incalzire </a>|</li>
+                  <li><a href="#" data-filter=".renovate">Sanitare</a></li>
+                  <li><a href="#" data-filter=".construction">Electrice </a>|</li>
                 </ul>
               </div>
             </div>
 
+            <p> 
+              Imagini cu proiecte pe categorii 
+              <br />
+              Ma gandesc ca aici ar putea intra si planse sau schite 
+            </p>
             <!-- ITEMS -->
             <ul class="items col-4 row">
               <!-- ITEM -->
@@ -349,9 +354,9 @@
 
           <!-- Heading -->
           <div class="heading text-center margin-bottom-60">
-            <h3>Words for <span>our Client</span></h3>
+            <h3>Parerea <span>Clientilor</span></h3>
             <hr>
-            <p>The Love Boat soon will be making another run the Love Boat promises something for everyone</p>
+            <p>Nimic nu te recomanda mai mult decat ceea ce au de spus despre tine oamenii cu care ai interactionat.</p>
           </div>
 
           <!-- Test Slider -->
@@ -426,98 +431,6 @@
                     <span>ceo & founder</span> </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Testimonial -->
-      <section class="blog light-gray-bg padding-top-150 padding-bottom-150">
-        <div class="container">
-          <!-- Heading -->
-          <div class="heading text-center">
-            <h3>From Our <span>Blog</span></h3>
-            <hr>
-            <p>The Love Boat soon will be making another run the Love Boat promises something for everyone Today still wanted
-              by the government they survive as soldiers of fortune.</p>
-          </div>
-
-          <!-- Row -->
-          <div class="row">
-            <!-- BLOG -->
-            <div class="col-md-6">
-              <div class="row">
-                <div class="col-sm-6"> <img class="img-responsive" src="images/post-img-1.jpg" alt="">
-                  <div class="date"> 17 SEP</div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="post-info"> <span>By edwin kosika</span> <a href="#." class="tittle-post font-oswald">Just two good boys Never meanin' no harm. </a>
-                    <hr class="main">
-                    <p class="letter-space-1">Didn't need no welfare. Everybody pulled his weight. Gee our old Lasalle ran great. </p>
-                    <a href="#." class="btn font-pt">read more</a> </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- BLOG -->
-            <div class="col-md-6">
-              <div class="row">
-                <div class="col-sm-6"> <img class="img-responsive" src="images/post-img-2.jpg" alt="">
-                  <div class="date"> 17 SEP</div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="post-info"> <span>By edwin kosika</span> <a href="#." class="tittle-post font-oswald">Just two good boys Never meanin' no harm. </a>
-                    <hr class="main">
-                    <p class="letter-space-1">Didn't need no welfare. Everybody pulled his weight. Gee our old Lasalle ran great. </p>
-                    <a href="#." class="btn font-pt">read more</a> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- CLIENTS -->
-      <section class="clients padding-top-100 padding-bottom-100">
-        <div class="container">
-          <div class="single-slide">
-            <div class="item">
-              <ul class="row margin-top-5">
-                <li>
-                  <a href="#."> <img src="images/c-img-1.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-2.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-3.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-4.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-5.png" class="img-responsive" alt=""> </a>
-                </li>
-              </ul>
-            </div>
-            <div class="item">
-              <ul class="row margin-top-5">
-                <li>
-                  <a href="#."> <img src="images/c-img-4.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-1.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-2.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-3.png" class="img-responsive" alt=""> </a>
-                </li>
-                <li>
-                  <a href="#."> <img src="images/c-img-2.png" class="img-responsive" alt=""> </a>
-                </li>
-              </ul>
             </div>
           </div>
         </div>
