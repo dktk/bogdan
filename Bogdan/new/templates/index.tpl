@@ -79,7 +79,7 @@
           <div class="heading text-center">
             <h3>Bun venit in <span>Advanced Design</span></h3>
             <hr>
-            <p>Pasiunea noastra este proiectarea si noi suntem dedicati intru totul pasiunii noastre.</p>
+            <p>Pasiunea noastra este proiectarea si suntem dedicati intru totul pasiunii noastre.</p>
           </div>
 
           <!-- INTRO SERVICES -->
@@ -87,13 +87,13 @@
             <div class="col-md-8">
               <ul class="row">
 
-                <!-- best house renovation -->
                 <li class="col-md-6"> <img class="img-responsive" src="images/intro-img-1.jpg" alt="">
                   <div class="intro-ser">
                     <div class="tag"><img src="images/intro-icon-1.png" alt=""></div>
-                    <h6 class="font-normal no-margin margin-bottom-20">best house renovation</h6>
-                    <p class="line-height-22">What might be right for you may not be to right for some. Now the world don't move to the som beat of
-                      just one drumu sathsa. </p>
+                    <h6 class="font-normal no-margin margin-bottom-20">Certificari si Atestate</h6>
+                    <p class="line-height-22">
+                      Excelenta rezulta din experienta si studiu. Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu. 
+                    </p>
                     <a href="#" class="font-pt">read more</a> </div>
                 </li>
 
@@ -172,14 +172,14 @@
 
           <!-- Work -->
           <div class="heading white text-left">
-            <h3> Feature <span>works </span></h3>
+            <h3> Portofoliu <span>de proiecte </span></h3>
             <hr>
           </div>
           <div class="portfolio-wrapper">
             <div class="filter">
               <div class="text-right">
                 <ul>
-                  <li><a class="active" data-toggle="tab" href="#." data-filter="*">All Projects </a>|</li>
+                  <li><a class="active" data-toggle="tab" href="#." data-filter="*">Toate proiectele </a>|</li>
                   <li><a href="#" data-filter=".interior">Interior Design </a>|</li>
                   <li><a href="#" data-filter=".building">Building </a>|</li>
                   <li><a href="#" data-filter=".construction">Construction </a>|</li>
@@ -248,7 +248,7 @@
         <div class="container">
           <!-- HEADING -->
           <div class="heading text-left">
-            <h3> Why <span>choose us?</span></h3>
+            <h3> Ce anume <span> ne recomanda?</span></h3>
             <hr>
           </div>
 
@@ -263,23 +263,20 @@
               <!-- Process -->
               <div class="num-process">
                 <ul class="row">
-
-                  <!-- 1 -->
+                  
                   <li class="col-xs-4">
                     <div class="icon"> <span>1</span> </div>
-                    <p>We Are Good</p>
+                    <p>Seriozitatea</p>
                   </li>
 
-                  <!-- 2 -->
                   <li class="col-xs-4">
                     <div class="icon"> <span>2</span> </div>
-                    <p>24/7 Support</p>
+                    <p>Expertiza</p>
                   </li>
-
-                  <!-- 3 -->
+                 
                   <li class="col-xs-4">
                     <div class="icon"> <span>3</span> </div>
-                    <p>Awwars Winning</p>
+                    <p>Dedicarea</p>
                   </li>
                 </ul>
               </div>

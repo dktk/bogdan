@@ -14,11 +14,12 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="css/ionicons.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="css/ionicons.min.css" rel="stylesheet" />
+<link href="css/main.css" rel="stylesheet" />
+<link href="css/style.css" rel="stylesheet" />
+<link href="css/responsive.css" rel="stylesheet" />
+<link href="css/fixes.css" rel="stylesheet" />
 
 <!-- Online Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css">
