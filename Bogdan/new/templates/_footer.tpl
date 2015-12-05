@@ -4,6 +4,7 @@
       <ul class="row no-margin">
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-phone"></i> </div>
+          <h6>Telefon</h6>
           <p>+40 740 38 18 82 </p>
         </li>
         <li class="col-sm-4">
