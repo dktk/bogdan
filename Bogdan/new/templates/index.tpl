@@ -77,10 +77,9 @@
 
           <!-- Heading -->
           <div class="heading text-center">
-            <h3>welcome to <span>Marize</span></h3>
+            <h3>Bun venit in <span>Advanced Design</span></h3>
             <hr>
-            <p>The Love Boat soon will be making another run the Love Boat promises something for everyone Today still wanted
-              by the government they survive as soldiers of fortune.</p>
+            <p>Pasiunea noastra este proiectarea si noi suntem dedicati intru totul pasiunii noastre.</p>
           </div>
 
           <!-- INTRO SERVICES -->
@@ -110,47 +109,55 @@
               </ul>
             </div>
 
-            <!-- INTRO INTRO -->
             <div class="col-md-4">
               <ul class="services-intro">
-                <!-- Architecture -->
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-3.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Architecture</h6>
-                    <p>Create your dream house with us</p>
+                    <h6 class="font-normal margin-bottom-10">ISCIR</h6>
+                    <p>Autorizari si verificari periodice</p>
                   </div>
                 </li>
-                <!-- Interior Design -->
+                
+                  <li>
+                  <div class="media-left">
+                    <div class="icon"><img src="images/intro-icon-3.png" alt=""></div>
+                  </div>
+                  <div class="media-body">
+                    <h6 class="font-normal margin-bottom-10">Gaz</h6>
+                    <p>Proiectare si executie</p>
+                  </div>
+                </li>
+                
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-4.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Interior Design</h6>
-                    <p>A new touch is always welcome</p>
+                    <h6 class="font-normal margin-bottom-10">Incalzire</h6>
+                    <p>Proiectare si executie</p>
                   </div>
                 </li>
-                <!-- Consulting -->
+                
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-5.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Consulting</h6>
-                    <p>Fresh minds with creative ideas</p>
+                    <h6 class="font-normal margin-bottom-10">Sanitare</h6>
+                    <p>Proiectare si executie</p>
                   </div>
                 </li>
-                <!-- Special Projects -->
+                
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Special Projects</h6>
-                    <p>We do best work to your projects</p>
+                    <h6 class="font-normal margin-bottom-10">Electice</h6>
+                    <p>Proiectare si executie</p>
                   </div>
                 </li>
               </ul>
