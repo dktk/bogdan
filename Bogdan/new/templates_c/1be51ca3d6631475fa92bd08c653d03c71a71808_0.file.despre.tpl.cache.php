@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-05 03:14:31
+/* Smarty version 3.1.28-dev/77, created on 2015-12-05 05:39:32
   from "D:\projects\Bogdan\Bogdan\new\templates\despre.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56624887e298b8_73128068',
+  'unifunc' => 'content_56626a84c7dcd2_13448640',
   'file_dependency' => 
   array (
     '1be51ca3d6631475fa92bd08c653d03c71a71808' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\new\\templates\\despre.tpl',
-      1 => 1448826890,
+      1 => 1449290297,
       2 => 'file',
     ),
   ),
@@ -19,11 +19,25 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_56624887e298b8_73128068 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1247856624887e262d2_08150126';
+function content_56626a84c7dcd2_13448640 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '1976956626a84c7a1a2_47581579';
 ?>
+<section class="sub-bnr">
+    <div class="position-center-center">
+      <div class="container">
+        <h4>Despre noi</h4>
+        <hr class="main">
+        <!-- Breadcrumb -->
+        <ol class="breadcrumb">
+          <li><a href="/">Acasa</a></li>
+          <li class="active">About</li>
+        </ol>
+      </div>
+    </div>
+    <div class="scroll"> <a href="#content" class="go-down"></a></div>
+  </section>
+  
 <div class="container about">
-	<h1>Despre noi</h1>
 	<div class="row activities">
 		<div class="col-md-4">
 			<img src="Images/compass.png" alt="compass" class="center-block" />

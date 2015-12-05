@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-05 03:14:30
+/* Smarty version 3.1.28-dev/77, created on 2015-12-05 05:14:50
   from "D:\projects\Bogdan\Bogdan\new\templates\contact.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56624886b0e260_25936635',
+  'unifunc' => 'content_566264ba2379a3_41491728',
   'file_dependency' => 
   array (
     '075ff7c350a7b64200d395135ae830d0344c8562' => 
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_56624886b0e260_25936635 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '3270756624886b01548_90706920';
+function content_566264ba2379a3_41491728 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '25180566264ba226501_21435212';
 ?>
 	<div class="container contact">
 		<h1>Informatii de contact</h1>

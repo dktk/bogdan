@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-05 04:07:11
+/* Smarty version 3.1.28-dev/77, created on 2015-12-05 05:39:38
   from "D:\projects\Bogdan\Bogdan\new\templates\_header.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_566254df429597_57247722',
+  'unifunc' => 'content_56626a8a656422_33310467',
   'file_dependency' => 
   array (
     '56cb70551ee28a64cfba159fd56ed5b7b2c84de1' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\new\\templates\\_header.tpl',
-      1 => 1449284364,
+      1 => 1449288491,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_566254df429597_57247722 ($_smarty_tpl) {
+function content_56626a8a656422_33310467 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en" class="csstransforms csstransforms3d csstransitions"><head>
@@ -35,11 +35,12 @@ function content_566254df429597_57247722 ($_smarty_tpl) {
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="css/ionicons.min.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="css/ionicons.min.css" rel="stylesheet" />
+<link href="css/main.css" rel="stylesheet" />
+<link href="css/style.css" rel="stylesheet" />
+<link href="css/responsive.css" rel="stylesheet" />
+<link href="css/fixes.css" rel="stylesheet" />
 
 <!-- Online Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css">
@@ -90,11 +91,10 @@ function content_566254df429597_57247722 ($_smarty_tpl) {
             <li style=""> <a href="despre.php">Despre noi</a> </li>
             <li style=""> <a href="servicii.php">Servicii</a> </li>
             <li style=""> <a href="portofoliu.php">Portofoliu</a> </li>
-            <li style=""> <a href="contact.php">Contact</a> </li>
           </ul>
           
           <!-- GET A QUOTES -->
-          <div class="quotes"> <a href="#" class="customcolor"><i class="fa fa-pencil-square-o"></i> GET A QUOTES </a> </div>
+          <div class="quotes"> <a href="contact.php" class="customcolor"><i class="fa fa-pencil-square-o"></i> Contacteaza-ne </a> </div>
         </nav>
       </div>
     </header>

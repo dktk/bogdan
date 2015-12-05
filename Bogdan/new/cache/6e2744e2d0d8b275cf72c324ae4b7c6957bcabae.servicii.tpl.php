@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-05 03:14:29
+/* Smarty version 3.1.28-dev/77, created on 2015-12-05 05:39:38
   from "D:\projects\Bogdan\Bogdan\new\templates\servicii.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_566248853ebee1_51669345',
+  'unifunc' => 'content_56626a8a67ac88_65103641',
   'file_dependency' => 
   array (
     '6e2744e2d0d8b275cf72c324ae4b7c6957bcabae' => 
@@ -17,7 +17,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_566248853ebee1_51669345 ($_smarty_tpl) {
+function content_56626a8a67ac88_65103641 ($_smarty_tpl) {
 ?>
 <div class="container services">
 		<h1>Servicii</h1>
