@@ -18,7 +18,7 @@
               <!-- LAYER NR. 1 -->
               <div class="tp-caption sfb font-oswald text-white  text-shadow tp-resizeme" data-x="center" data-hoffset="0" data-y="center"
               data-voffset="-40" data-speed="500" data-start="500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-              data-elementdelay="0.0" data-endelementdelay="0" data-endspeed="300" style="z-index: 5; font-size:50px; font-weight:500;">WE DO BIG THINGS WITH NEW IDEAS</div>
+              data-elementdelay="0.0" data-endelementdelay="0" data-endspeed="300" style="z-index: 5; font-size:50px; font-weight:500;">PROIECTE MARI CU IDEI MARI</div>
 
               <!-- LAYER NR. 2 -->
               <div class="tp-caption sfb font-bold text-center tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="40"
@@ -31,10 +31,6 @@
               data-elementdelay="0.0" data-endelementdelay="0.0" data-endspeed="300" style="z-index: 6; color:#fff; font-size:18px;">
               Today still wanted by the government they survive as soldiers of fortune.</div>
 
-              <!-- LAYER NR. 4 -->
-              <div class="tp-caption font-lora letter-space-4 sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="180"
-              data-speed="500" data-start="1900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-              data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7;"><a href="#." class="btn btn-blue margin-right-20">mai multe</a> <a href="#." class="btn btn-white margin-left-20">GET START</a>                </div>
             </li>
             <!-- SLIDE  -->
             <li data-transition="random" data-slotamount="7" data-masterspeed="300" data-saveperformance="off">
@@ -45,7 +41,7 @@
               <!-- LAYER NR. 1 -->
               <div class="tp-caption sfb font-oswald text-white text-shadow tp-resizeme" data-x="center" data-hoffset="0" data-y="center"
               data-voffset="-40" data-speed="500" data-start="500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-              data-elementdelay="0.0" data-endelementdelay="0" data-endspeed="300" style="z-index: 5; font-size:50px; font-weight:500;">WE DO BIG THINGS WITH NEW IDEAS</div>
+              data-elementdelay="0.0" data-endelementdelay="0" data-endspeed="300" style="z-index: 5; font-size:50px; font-weight:500;">IMAGINATIE si VIZIUNE</div>
 
               <!-- LAYER NR. 2 -->
               <div class="tp-caption sfb font-bold text-center tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="40"
@@ -58,10 +54,6 @@
               data-elementdelay="0.0" data-endelementdelay="0.0" data-endspeed="300" style="z-index: 6; color:#fff; font-size:18px;">
               Today still wanted by the government they survive as soldiers of fortune.</div>
 
-              <!-- LAYER NR. 4 -->
-              <div class="tp-caption font-lora letter-space-4 sfb tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="180"
-              data-speed="500" data-start="1900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-              data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" style="z-index: 7;"><a href="#." class="btn btn-blue margin-right-20">mai multe</a> <a href="#." class="btn btn-white margin-left-20">GET START</a>                </div>
             </li>
           </ul>
         </div>
