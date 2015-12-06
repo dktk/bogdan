@@ -71,7 +71,7 @@
           <div class="heading text-center">
             <h3>Bun venit in <span>Advanced Design</span></h3>
             <hr>
-            <p>Pasiunea noastra este proiectarea si suntem dedicati intru totul pasiunii noastre.</p>
+            <p>Suntem dedicati intru totul pasiunii noastre: PROIECTAREA.</p>
           </div>
 
           <!-- INTRO SERVICES -->
@@ -86,7 +86,7 @@
                     <p class="line-height-22">
                       Excelenta rezulta din experienta si studiu. Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu. 
                     </p>
-                    <a href="#" class="font-pt">mai multe</a> </div>
+                    <a href="#" class="font-pt">detalii</a> </div>
                 </li>
 
                 <!-- Design and build -->
@@ -94,9 +94,20 @@
                   <div class="intro-ser">
                     <div class="tag"><img src="images/intro-icon-2.png" alt=""></div>
                     <h6 class="font-normal no-margin margin-bottom-20">Diriginte de santier</h6>
-                    <p class="line-height-22">What might be right for you may not be to right for some. Now the world don't move to the som beat of
-                      just one drumu sathsa. </p>
-                    <a href="#" class="font-pt">mai multe</a> </div>
+                    <div class="line-height-22 ">
+                        <p>
+                         Asiguram servicii de dirigentie de santier prin personal autorizat de Inspectia de Stat in Constructii pentru domeniile
+                         </p>
+                        <ul class="listing">
+                          <li>
+                            Instalatii sanitare si termoventilatii
+                          </li>
+                          <li>
+                            Instalatii electrice
+                          </li>
+                        </ul>
+                    </div>
+                    <a href="diriginte-de-santier.php" class="font-pt">detalii</a> </div>
                 </li>
               </ul>
             </div>

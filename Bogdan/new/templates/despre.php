@@ -1,17 +1,17 @@
 <section class="sub-bnr">
-    <div class="position-center-center">
-      <div class="container">
-        <h4>Despre noi</h4>
-        <hr class="main">
-        <!-- Breadcrumb -->
-        <ol class="breadcrumb">
-          <li><a href="/">Acasa</a></li>
-          <li class="active">About</li>
-        </ol>
-      </div>
-    </div>
-    <div class="scroll"> <a href="#content" class="go-down"></a></div>
-  </section>
+	<div class="position-center-center">
+		<div class="container">
+		<h4>Despre noi</h4>
+		<hr class="main">
+		<!-- Breadcrumb -->
+		<ol class="breadcrumb">
+			<li><a href="/">Acasa</a></li>
+			<li class="active">Despre noi</li>
+		</ol>
+		</div>
+	</div>
+	<div class="scroll"> <a href="#content" class="go-down"></a></div>
+</section>
   
 <div class="container about">
 	<div class="row activities">
