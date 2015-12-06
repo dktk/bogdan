@@ -35,8 +35,8 @@
 <body>
 
 <!-- Wrap -->
-<div id="wrap"> 
-  
+<div id="wrap">
+
   <!-- header -->
   <div class="container relative">
     <header>
@@ -62,7 +62,7 @@
             <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>
-        
+
         <!-- Navigation -->
         <nav class="navbar">
           <ul class="nav ownmenu"><li class="showhide" style="display: none;"><span class="title"></span><span class="icon fa fa-bars"></span></li>
@@ -70,8 +70,10 @@
             <li style=""> <a href="despre.php">Despre noi</a> </li>
             <li style=""> <a href="servicii.php">Servicii</a> </li>
             <li style=""> <a href="portofoliu.php">Portofoliu</a> </li>
+            <li> <a href="iscir.php">ISCIR</a>
+            <li><a href="diriginte-de-santier.php">Diriginte santier</a></li>
           </ul>
-          
+
           <!-- GET A QUOTES -->
           <div class="quotes"> <a href="contact.php" class="customcolor"><i class="fa fa-pencil-square-o"></i> Contacteaza-ne </a> </div>
         </nav>

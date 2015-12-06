@@ -1,3 +1,10 @@
+.sub-bnr h1 {
+	color: #fff;
+	font-weight: normal;
+	font-size: 40;
+	margin-top: 150px;
+}
+
 .services-intro { border: 12px solid #f8f8f8; }
 .services-intro li { margin: 34px 0; }
 .services-intro li:first-child { margin-top:0px; }
@@ -7,4 +14,11 @@ header .quotes a {letter-spacing: 3px; background-color: #333333; margin-right: 
 .intro-ser a {
 	text-transform: lowercase;
 	border:none;
-}	
+}
+.content-page p {
+	margin-bottom: 15px;
+}
+
+.content-page p:last-child {
+	margin-bottom: 0;
+}
