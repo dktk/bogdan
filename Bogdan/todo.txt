@@ -21,3 +21,7 @@ change the recipient of the contact email to be bogdan
 contact sends 2 emails
 contact honey
 contact validate inputs
+
+on mobile/tablet
+404 page
+add a faq page?? http://premiumlayers.com/demos/marize/faq.html#.
