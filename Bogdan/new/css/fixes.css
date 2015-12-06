@@ -1,24 +1,53 @@
-.sub-bnr h1 {
-	color: #fff;
-	font-weight: normal;
-	font-size: 40;
-	margin-top: 150px;
+body {
+	font-size: 1.3em;
 }
-
-.services-intro { border: 12px solid #f8f8f8; }
-.services-intro li { margin: 34px 0; }
-.services-intro li:first-child { margin-top:0px; }
-.services-intro li:last-child { margin-bottom:0px; }
-header .quotes a {letter-spacing: 3px; background-color: #333333; margin-right: 0;}
-.listing li { margin-left: 15px; list-style-type: square; }
+.sub-bnr h1 {
+  color: #fff;
+  font-weight: normal;
+  font-size: 40;
+  margin-top: 150px;
+}
+.services-intro {
+  border: 12px solid #f8f8f8;
+}
+.services-intro li {
+  margin: 34px 0;
+}
+.services-intro li:first-child {
+  margin-top: 0px;
+}
+.services-intro li:last-child {
+  margin-bottom: 0px;
+}
+header .quotes a {
+  letter-spacing: 3px;
+  background-color: #333333;
+  margin-right: 0;
+}
+.listing li {
+  margin-left: 15px;
+  list-style-type: square;
+}
 .intro-ser a {
-	text-transform: lowercase;
-	border:none;
+  text-transform: lowercase;
+  border: none;
 }
 .content-page p {
-	margin-bottom: 15px;
+  margin-bottom: 15px;
+}
+.content-page p:last-child {
+  margin-bottom: 0;
+}
+.services .service {
+	margin-bottom: 2em;
 }
 
-.content-page p:last-child {
-	margin-bottom: 0;
+.services .service .cate {
+	font-size: 1em;
+}
+
+.services .service .cate li {
+	margin-left: 25px;
+	border:none;
+	line-height: 35px;
 }

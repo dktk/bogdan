@@ -20,12 +20,12 @@
       </ul>
     </div>
   </section>
-  
+
   <!-- FOOTER -->
   <footer>
     <div class="container">
-      <div class="row"> 
-        
+      <div class="row">
+
         <!-- ABOUT -->
         <div class="col-md-4"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="">
           <p>Proiectare si expertiza in instalatii la Satu Mare</p>
@@ -36,7 +36,7 @@
             <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>
-        
+
         <!-- Get in touch -->
         <div class="col-md-4">
           <h6>Contacteaza-ne</h6>
@@ -52,7 +52,7 @@
             </li>
           </ul>
         </div>
-        
+
         <!-- Business Hours -->
         <div class="col-md-4">
           <h6>Program de lucru</h6>
@@ -74,22 +74,26 @@
       </div>
     </div>
   </footer>
-  
+
   <!-- RIGHTS -->
   <div class="rights">
     <p> © Advanced Design 2015 </p>
   </div>
 </div>
-<script src="js/jquery-1.11.0.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/own-menu.js"></script> 
-<script src="js/jquery.isotope.min.js"></script> 
-<script src="js/jquery.prettyPhoto.js"></script> 
-<script src="js/owl.carousel.min.js"></script> 
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/own-menu.js"></script>
+<script src="js/jquery.isotope.min.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/owl.carousel.min.js"></script>
 
-<!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
-<script type="text/javascript" src="rs-plugin/js/jquery.tp.t.min.js"></script> 
-<script type="text/javascript" src="rs-plugin/js/jquery.tp.min.js"></script> 
+<!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+<script type="text/javascript" src="rs-plugin/js/jquery.tp.t.min.js"></script>
+<script type="text/javascript" src="rs-plugin/js/jquery.tp.min.js"></script>
 <script src="js/main.js"></script>
-
+<script type="text/javascript">
+  $(function() {
+    $("h2").prepend("<a id='content'></a>");
+  })
+</script>
 </body></html>
