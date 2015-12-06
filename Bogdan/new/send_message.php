@@ -24,7 +24,7 @@ function sendMail($name, $subject, $phone, $email, $message) {
     'X-Mailer: PHP/' . phpversion();
 
 mail($to, $subject, $message, $headers);
-	mail($to, $standardSubject, $subject.$email . "\r\n" . $message, $headers);
+	mail($to, $standardSubject, $subject. "\r\n" . $message . "\r\n" . $email . "\r\n" . $phone, $headers);
 }
 
 function handlePost() {
@@ -33,16 +33,16 @@ function handlePost() {
 	 $message= $_POST["message"];
 	 $subject = $_POST["subject"];
 	 $email = $_POST["email"];
-	 
+
 	 $url = "http://www.advanceddesign.ro/";
-	 
+
 	 if (endswith($_SERVER['HTTP_HOST'], ":10088"))
 		 $url = "http://localhost:10088/";
 
 	sendMail($name, $subject, $phone, $email, $message);
-		 
+
 	Redirect($url . "contact-thankyou.php");
  }
- 
+
  handlePost();
 ?>
