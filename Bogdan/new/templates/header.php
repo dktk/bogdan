@@ -3,9 +3,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="author" content="M_Adnan">
-<title>Marize - Builders &amp; Renovators HTML5 Template</title>
+<meta name="description" content="{$description}">
+<meta name="keywords" content="{$keywords}">
+
+
+<title>{$title}</title>
 
 <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
 <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
@@ -68,7 +70,7 @@
           <ul class="nav ownmenu"><li class="showhide" style="display: none;"><span class="title"></span><span class="icon fa fa-bars"></span></li>
             {foreach from=$Menu key=k item=i}
     					<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li>
-    				{/foreach} 
+    				{/foreach}
           </ul>
 
           <!-- GET A QUOTES -->
