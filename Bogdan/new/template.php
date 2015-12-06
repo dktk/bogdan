@@ -1,30 +1,40 @@
 <?php
-
 function LoadTemplate($title, $description, $keywords, $template) {
+	LoadTemplateWithScripts($title, $description, $keywords, $template, array());
+}
+
+function LoadTemplateWithScripts($title, $description, $keywords, $template, $scripts) {
 	require './libs/Smarty.class.php';
 
 	$smarty = new Smarty;
-	
+
 	$smarty->force_compile = true;
 	$smarty->caching = true;
 	// $smarty->cache_lifetime = 120;
 	$smarty->assignByRef("title", $title);
 	$smarty->assignByRef("description", $description);
-	
+
 	$smarty->assignByRef("keywords", $keywords);
-	
+
 	$menu=Array('Acasa'=>'/',
 				'Servicii'=>'servicii.php',
-				'Portofoliu'=>'portofoliu.php', 
-				'Despre noi' => 'despre.php', 
-				'Contact' => 'contact.php'); 
-	
-	$smarty->assignByRef('SelMenu', $template); 
-	$smarty->assignByRef('Menu', $menu); 
+				'Portofoliu'=>'portofoliu.php',
+				'ISCIR' => 'iscir.php',
+				'Diriginte santier' => 'diriginte-de-santier.php');
+
+	$smarty->assignByRef('SelMenu', $template);
+	$smarty->assignByRef('Menu', $menu);
 
 	$smarty->display('./templates/header.php');
 	$smarty->display('./templates/'. $template . '.php');
 	$smarty->display('./templates/footer.php');
-}	
 
+	$numberOfScripts = count($scripts);
+	if ( $numberOfScripts > 0) {
+		for ($i=0; $i < $numberOfScripts; $i++) {
+			echo "<script src='" . $scripts[$i] ."' async defer></script>\n";
+		}
+	}
+	$smarty->display('./templates/html-end.php');
+}
 ?>

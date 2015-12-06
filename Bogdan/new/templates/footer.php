@@ -90,10 +90,10 @@
 <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
 <script type="text/javascript" src="rs-plugin/js/jquery.tp.t.min.js"></script>
 <script type="text/javascript" src="rs-plugin/js/jquery.tp.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.2.8/jquery.form-validator.min.js"></script>
 <script src="js/main.js"></script>
 <script type="text/javascript">
   $(function() {
     $("h2").prepend("<a id='content'></a>");
   })
 </script>
-</body></html>
