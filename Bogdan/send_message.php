@@ -32,16 +32,16 @@ function handlePost() {
 	 $phone = $_POST["phone"];
 	 $message= $_POST["message"];
 	 $email = $_POST["email"];
-	 
+
 	 $url = "http://www.advanceddesign.ro/";
-	 
+
 	 if (endswith($_SERVER['HTTP_HOST'], ":10088"))
 		 $url = "http://localhost:10088/";
 
 	sendMail($name, $phone, $email, $message);
-		 
-	Redirect($url . "contact-thankyou.php");
+
+	Redirect($url . "multumim.php");
  }
- 
+
  handlePost();
 ?>
