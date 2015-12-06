@@ -67,7 +67,6 @@
         <nav class="navbar">
           <ul class="nav ownmenu"><li class="showhide" style="display: none;"><span class="title"></span><span class="icon fa fa-bars"></span></li>
             <li class="active" style=""> <a href="index.php">Acasa</a> </li>
-            <li style=""> <a href="despre.php">Despre noi</a> </li>
             <li style=""> <a href="servicii.php">Servicii</a> </li>
             <li style=""> <a href="portofoliu.php">Portofoliu</a> </li>
             <li> <a href="iscir.php">ISCIR</a>
