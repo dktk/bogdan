@@ -9,6 +9,7 @@ body {
 }
 .services-intro {
   border: 12px solid #f8f8f8;
+	margin-top:120px;
 }
 .services-intro li {
   margin: 34px 0;

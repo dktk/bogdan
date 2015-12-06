@@ -74,10 +74,6 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="heading text-left margin-bottom-47">
-              <h3> Solutions <span>For</span></h3>
-              <hr>
-            </div>
             <ul class="services-intro">
               <li>
                 <div class="media-left">
