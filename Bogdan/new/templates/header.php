@@ -66,11 +66,9 @@
         <!-- Navigation -->
         <nav class="navbar">
           <ul class="nav ownmenu"><li class="showhide" style="display: none;"><span class="title"></span><span class="icon fa fa-bars"></span></li>
-            <li class="active" style=""> <a href="index.php">Acasa</a> </li>
-            <li style=""> <a href="servicii.php">Servicii</a> </li>
-            <li style=""> <a href="portofoliu.php">Portofoliu</a> </li>
-            <li> <a href="iscir.php">ISCIR</a>
-            <li><a href="diriginte-de-santier.php">Diriginte santier</a></li>
+            {foreach from=$Menu key=k item=i}
+    					<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li>
+    				{/foreach} 
           </ul>
 
           <!-- GET A QUOTES -->
