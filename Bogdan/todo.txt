@@ -20,3 +20,4 @@ change the recipient of the contact email to be bogdan
 
 contact sends 2 emails
 contact honey
+contact validate inputs
