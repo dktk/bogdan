@@ -14,6 +14,7 @@ function initMap() {
       lng: 22.877106850926137
     },
     map: map,
+    icon: "http://advanceddesign.ro/images/map-locator.png",
     title: 'Advanced Design',
     animation: google.maps.Animation.DROP
   });

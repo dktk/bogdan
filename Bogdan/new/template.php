@@ -32,7 +32,7 @@ function LoadTemplateWithScripts($title, $description, $keywords, $template, $sc
 	$numberOfScripts = count($scripts);
 	if ( $numberOfScripts > 0) {
 		for ($i=0; $i < $numberOfScripts; $i++) {
-			echo "<script src='" . $scripts[$i] ."' async defer></script>\n";
+			echo "<script src='" . $scripts[$i] ."'></script>\n";
 		}
 	}
 	$smarty->display('./templates/html-end.php');
