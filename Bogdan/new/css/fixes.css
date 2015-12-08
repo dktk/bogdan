@@ -1,6 +1,10 @@
 body {
 	font-size: 1.8em;
 }
+
+.align {
+	text-indent: 2em;
+}
 .sub-bnr h1 {
   color: #fff;
   font-weight: normal;
@@ -60,4 +64,20 @@ header .quotes a {
 
 .honey {
 	display: none;
+}
+
+h4.title {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+.diriginte em {
+	padding: 10px 5px;
+	background-color:#ffbe00;
+	color: #222;
+	margin-bottom: 1em;
+	display: block;
+}
+.diriginte em i {
+	margin-left:1em;
 }

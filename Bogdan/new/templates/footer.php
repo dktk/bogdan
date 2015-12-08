@@ -10,7 +10,7 @@
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-envelope-o"></i> </div>
           <h6>via Email</h6>
-          <p>bogadantuns@yahoo.com </p>
+          <small>bogadantuns@yahoo.com </small>
         </li>
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-clock-o"></i> </div>
