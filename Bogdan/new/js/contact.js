@@ -8,7 +8,6 @@ function initMap() {
     disableDefaultUI: true
   });
 
-
   var marker = new google.maps.Marker({
     position: {
       lat: 47.793410757080816,
