@@ -17,10 +17,10 @@ function LoadTemplateWithScripts($title, $description, $keywords, $template, $sc
 	$smarty->assignByRef("keywords", $keywords);
 
 	$menu=Array('Acasa'=>'/',
-				'Servicii'=>'servicii.php',
-				'Portofoliu'=>'portofoliu.php',
+				'Proiectare'=>'proiectare.php',
 				'ISCIR' => 'iscir.php',
-				'Diriginte santier' => 'diriginte-de-santier.php');
+				'Diriginte santier' => 'diriginte-de-santier.php',
+				'Portofoliu'=>'portofoliu.php');
 
 	$smarty->assignByRef('SelMenu', $template);
 	$smarty->assignByRef('Menu', $menu);

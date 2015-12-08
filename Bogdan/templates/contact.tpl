@@ -48,9 +48,9 @@
 						</span>
 
 						<input
-							type="text" name="name" id="name" class="form-control" 
-							data-validation="required" placeholder="Nume" 
-							data-validation-error-msg-container="#email-error-dialog"	
+							type="text" name="name" id="name" class="form-control"
+							data-validation="required" placeholder="NUME"
+							data-validation-error-msg-container="#email-error-dialog"
 							/>
 					</div>
 
@@ -58,9 +58,9 @@
 						<span class="input-group-addon">
 							<i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>
 						</span>
-						<input type="text" name="email" id="email" 
-							class="form-control" placeholder="Email" data-validation="required" 
-							data-validation="email" 
+						<input type="text" name="email" id="email"
+							class="form-control" placeholder="Email" data-validation="required"
+							data-validation="email"
 							data-validation-error-msg-container="#email-error-dialog"/>
 					</div>
 
@@ -68,8 +68,8 @@
 						<span class="input-group-addon">
 							<i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>
 						</span>
-						<input type="text" name="phone" id="phone" class="form-control" 
-								placeholder="Telefon - 0798 765 432" data-validation="required" 
+						<input type="text" name="phone" id="phone" class="form-control"
+								placeholder="Telefon - 0798 765 432" data-validation="required"
 								pattern="^07\d\d\s\d\d\d\s\d\d\d" data-validation="phone"
 								data-validation-error-msg-container="#email-error-dialog"/>
 					</div>
@@ -79,8 +79,8 @@
 							<i class="glyphicon glyphicon-pencil" aria-hidden="true"></i>
 						</span>
 						<textarea
-							class="form-control" name="message" id="message" placeholder="Mesaj" 
-							data-validation="required" 
+							class="form-control" name="message" id="message" placeholder="Mesaj"
+							data-validation="required"
 							rows="6"
 							pattern="^[a-z][A-Z]+"
 							data-validation-error-msg-container="#email-error-dialog">
@@ -123,7 +123,7 @@
 			});
 		}
 	</script>
-	
+
 	<script>
 		var ro = {
         errorTitle: 'Mesajul nu a fost trimis!',

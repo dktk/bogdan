@@ -54,7 +54,7 @@
               <p><i class="fa fa-envelope-o"></i> bogdantuns@yahoo.com </p>
             </li>
             <li>
-              <p><i class="fa fa-clock-o"></i> Luni - Vineri : 08.00 - 17.00 </p>
+              <p><i class="fa fa-clock-o"></i> Luni - Vineri 09:00 - 18:00 </p>
             </li>
           </ul>
           <ul class="social">

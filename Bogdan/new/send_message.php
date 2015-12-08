@@ -39,9 +39,15 @@ function handlePost() {
 	 if (endswith($_SERVER['HTTP_HOST'], ":10088"))
 		 $url = "http://localhost:10088/";
 
-	sendMail($name, $subject, $phone, $email, $message);
+   if ($_POST["honey"] == "") {
+     // sendMail($name, $subject, $phone, $email, $message);
+     echo "sending mail";
+   }
+   else {
+      echo "spammer spammer, have a hammer";
+   }
 
-	Redirect($url . "contact-thankyou.php");
+   // Redirect($url . "contact-thankyou.php");
  }
 
  handlePost();

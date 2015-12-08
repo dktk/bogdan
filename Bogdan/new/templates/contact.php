@@ -16,14 +16,13 @@
 
 <div id="content">
 
-    <!-- LATEST WORK -->
     <section class="contact-page padding-top-100 padding-bottom-100">
       <div class="container">
         <div class="row margin-top-100 margin-bottom-100">
           <div class="col-md-8">
             <div class="heading text-left margin-bottom-20">
               <h3> Contacteaza-<span>ne</span></h3>
-              <hr>
+              <hr />
             </div>
 
             <div class="contact-form">
@@ -32,38 +31,52 @@
               <div class="margin-top-50">
                 <div class="contact-form">
 
-                  <!-- Success Msg -->
-                  <div id="contact_message" class="success-msg"> <i class="fa fa-paper-plane-o"></i>Thank You. Your Message has been Submitted</div>
+              		<div id="errors-container">
+									</div>
 
                   <!-- FORM -->
                   <form role="form" id="contact_form" class="contact-form" method="post" action="send_message.php">
                     <ul class="row">
                       <li class="col-sm-12">
                         <label>
-                          <input type="text" class="form-control" name="name" id="name" placeholder="Nume">
+                          <input type="text" class="form-control" name="name" id="name"
+														required placeholder="NUME"
+														data-validation-error-msg-container="#errors-container" />
                         </label>
                       </li>
                       <li class="col-sm-12">
                         <label>
-                          <input type="text" class="form-control" name="email" id="email" placeholder="EMAIL">
+													<input type="text" name="email" id="email"
+														class="form-control" placeholder="EMAIL"
+														data-validation="email" required
+														data-validation-error-msg-container="#errors-container" />
                         </label>
                       </li>
-					   <li class="col-sm-12">
+					   					<li class="col-sm-12">
                         <label>
-                          <input type="text" class="form-control" name="phone" id="phone" placeholder="TELEFON">
+													<input type="text" name="phone" id="phone" class="form-control"
+															placeholder="TELEFON - 0798 765 432" required
+															pattern="^07\d\d\s\d\d\d\s\d\d\d" data-validation="phone"
+															data-validation-error-msg-container="#errors-container" />
                         </label>
                       </li>
+                      <li class="col-sm-12">
+                        <label>
+													<input type="text" name="subject" id="subject"
+															placeholder="SUBIECT" class="form-control" required
+															pattern="^07\d\d\s\d\d\d\s\d\d\d$" data-validation="phone"
+															data-validation-error-msg-container="#errors-container" />
 
-                      <li class="col-sm-12">
-                        <label>
-                          <input type="text" class="form-control" name="subject" id="subject" placeholder="SUBIECT">
                         </label>
                       </li>
                       <li class="col-sm-12 margin-top-20">
                         <label>
-                          <textarea class="form-control" name="message" id="message" rows="5" placeholder=""></textarea>
+                          <textarea class="form-control" name="message" id="message" rows="5" placeholder="MESAJ"></textarea>
                         </label>
                       </li>
+											<li>
+													<input type="text" class="honey" name="honey" id="honey" />
+											</li>
                       <li class="col-sm-12">
                         <button type="submit" value="submit" id="btn_submit" class="btn btn-yellow" onclick="proceed();">Trimite</button>
                       </li>
@@ -116,3 +129,4 @@
         </div>
       </div>
 </section>
+</div>

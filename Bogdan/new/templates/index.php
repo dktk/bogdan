@@ -81,10 +81,10 @@
 
                 <li class="col-md-6"> <img class="img-responsive" src="images/intro-img-1.jpg" alt="">
                   <div class="intro-ser">
-                    <div class="tag"><img src="images/intro-icon-1.png" alt=""></div>
+                    <div class="tag"><img src="images/intro-icon-5.png" alt=""></div>
                     <h6 class="font-normal no-margin margin-bottom-20">Certificari si Atestate</h6>
                     <p class="line-height-22">
-                      Excelenta rezulta din experienta si studiu. Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu. 
+                      Excelenta rezulta din experienta si studiu. Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu.
                     </p>
                     <a href="#" class="font-pt">detalii</a> </div>
                 </li>
@@ -123,7 +123,7 @@
                     <p>Autorizari si verificari periodice</p>
                   </div>
                 </li>
-                
+
                   <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-3.png" alt=""></div>
@@ -133,7 +133,7 @@
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
-                
+
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-4.png" alt=""></div>
@@ -143,7 +143,7 @@
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
-                
+
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-5.png" alt=""></div>
@@ -153,13 +153,13 @@
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
-                
+
                 <li>
                   <div class="media-left">
                     <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Electice</h6>
+                    <h6 class="font-normal margin-bottom-10">Electrice</h6>
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
@@ -191,10 +191,10 @@
               </div>
             </div>
 
-            <p> 
-              Imagini cu proiecte pe categorii 
+            <p>
+              Imagini cu proiecte pe categorii
               <br />
-              Ma gandesc ca aici ar putea intra si planse sau schite 
+              Ma gandesc ca aici ar putea intra si planse sau schite
             </p>
             <!-- ITEMS -->
             <ul class="items col-4 row">
@@ -271,7 +271,7 @@
               <!-- Process -->
               <div class="num-process">
                 <ul class="row">
-                  
+
                   <li class="col-xs-4">
                     <div class="icon"> <span>1</span> </div>
                     <p>Seriozitatea</p>
@@ -281,7 +281,7 @@
                     <div class="icon"> <span>2</span> </div>
                     <p>Expertiza</p>
                   </li>
-                 
+
                   <li class="col-xs-4">
                     <div class="icon"> <span>3</span> </div>
                     <p>Dedicarea</p>
