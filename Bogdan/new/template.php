@@ -19,7 +19,7 @@ function LoadTemplateWithScripts($title, $description, $keywords, $template, $sc
 	$menu=Array('Acasa'=>'/',
 				'Proiectare'=>'proiectare.php',
 				'ISCIR' => 'iscir.php',
-				'Diriginte santier' => 'diriginte-de-santier.php',
+				'Dirigentie de santier' => 'dirigentie-de-santier.php',
 				'Portofoliu'=>'portofoliu.php');
 
 	$smarty->assignByRef('SelMenu', $template);

@@ -29,7 +29,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 <p>ADVANCED DESIGN asigura ca serivicii de proiectare urmatoarele:</p>
 
 <div class="service">
-	Proiectare si executie instalatii de gaz
+	<h4>Proiectare si executie instalatii de gaz</h4>
 	<ul class="cate">
 		<li>Consultanta de specialitate</li>
 		<li> Obtinere avize si autorizatii</li>
@@ -41,21 +41,21 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 </div>
 
 	<div class="service">
-		Proiectare si executie instalatii de incalzire
+		<h4>Proiectare si executie instalatii de incalzire</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare de incalzire prin corpuri statice (radiatoare, convectoare de pardoseala) </li>
 			<li>	Instalatii incalzire prin radiatie de joasa temperatura (incalzire prin pardoseala) </li>
 		</ul>
 	</div>
 	<div class="service">
-	Proiectare si executie instalatii de sanitare
+		<h4>Proiectare si executie instalatii de sanitare</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare si exterioare de alimentare cu apa </li>
 		</ul>
 	</div>
 
 	<div class="service">
-		Instalatii de preparare si alimentare cu apa calda de consum menajer
+		<h4>Instalatii de preparare si alimentare cu apa calda de consum menajer</h4>
 		<ul class="cate">
 			<li>
 			Instalatii pentru stins incendii cu apa (hidranti, sprinklere, drencere), gospodarii de apa de consum si pentru incendii, canalizari de ape uzate menajere/pluviale
@@ -64,7 +64,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 	</div>
 
 	<div class="service">
-		Proiectare si executie instalatii de electrice
+		<h4>Proiectare si executie instalatii de electrice</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare si exterioare de iluminat </li>
 			<li>	Instalatii interioare si exterioare de forta </li>

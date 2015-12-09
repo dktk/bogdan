@@ -84,9 +84,12 @@
                     <div class="tag"><img src="images/intro-icon-5.png" alt=""></div>
                     <h6 class="font-normal no-margin margin-bottom-20">Certificari si Atestate</h6>
                     <p class="line-height-22">
-                      Excelenta rezulta din experienta si studiu. Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu.
+                      Excelenta rezulta din experienta si studiu.
                     </p>
-                    <a href="#" class="font-pt">detalii</a> </div>
+                    <p>
+                      Intr-o lume in continua evolutie, suntem mereu la curent cu cele mai noi practici in domeniu.
+                    </p>
+                    <a href="#" class="font-pt cert">detalii</a> </div>
                 </li>
 
                 <!-- Design and build -->

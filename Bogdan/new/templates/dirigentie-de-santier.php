@@ -1,7 +1,7 @@
 <section class="sub-bnr">
 	<div class="position-center-center">
 		<div class="container">
-		<h1>Dirigente de santier</h1>
+		<h1>Dirigentie de santier</h1>
 		<hr class="main">
 		<!-- Breadcrumb -->
 		<ol class="breadcrumb">
@@ -16,7 +16,7 @@
 <section class="content-page padding-top-100 padding-bottom-100 line-height-22 diriginte">
 	<div class="container">
 		<div class="project-detail margin-top-50 margin-bottom-50">
-		<h2 class="font-normal margin-bottom-30">Dirigintie de <span class="primary-color">santier</span></h2>
+		<h2 class="font-normal margin-bottom-30">Dirigentie de <span class="primary-color">santier</span></h2>
 
 		<em> <i class="fa fa-exclamation-triangle"></i> Nici o casa nu mai poate fi construita fara angajarea unui Diriginte de Santier </em>
 
