@@ -185,11 +185,11 @@
             <div class="filter">
               <div class="text-right">
                 <ul>
-                  <li><a class="active" data-toggle="tab" href="#." data-filter="*">Toate proiectele </a>|</li>
-                  <li><a href="#" data-filter=".interior">Gaz </a>|</li>
-                  <li><a href="#" data-filter=".building">Incalzire </a>|</li>
-                  <li><a href="#" data-filter=".renovate">Sanitare</a></li>
-                  <li><a href="#" data-filter=".construction">Electrice </a>|</li>
+                  <li><a class="active" data-toggle="tab" href="#." data-filter="*">Toate proiectele </a><span>|</span></li>
+                  <li><a href="#" data-filter=".interior">Gaz </a><span>|</span></li>
+                  <li><a href="#" data-filter=".building">Incalzire </a><span>|</span></li>
+                  <li><a href="#" data-filter=".renovate">Sanitare</a><span>|</span></li>
+                  <li><a href="#" data-filter=".construction">Electrice </a></li>
                 </ul>
               </div>
             </div>
@@ -282,7 +282,7 @@
 
                   <li class="col-xs-4">
                     <div class="icon"> <span>2</span> </div>
-                    <p>Expertiza</p>
+                    <p>Experienta</p>
                   </li>
 
                   <li class="col-xs-4">

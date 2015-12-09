@@ -1,7 +1,10 @@
 body {
 	font-size: 1.8em;
 }
-
+.top-info .social li a {
+	border-right: 1px solid #f0f0f0;
+	border-left:none;
+}
 .top-info .personal-info li {
 	padding: 15px 18px;
 }
@@ -31,8 +34,11 @@ body {
 }
 header .quotes a {
   letter-spacing: 3px;
-  background-color: #333333;
   margin-right: 0;
+}
+header .quotes a,
+header .quotes a:hover {
+	background-color: #F3CB17;
 }
 .listing li {
   margin-left: 15px;

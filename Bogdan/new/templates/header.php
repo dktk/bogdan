@@ -67,7 +67,8 @@
 
         <!-- Navigation -->
         <nav class="navbar">
-          <ul class="nav ownmenu"><li class="showhide" style="display: none;"><span class="title"></span><span class="icon fa fa-bars"></span></li>
+          <ul class="nav ownmenu">
+            
             {foreach from=$Menu key=k item=i}
     					<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li>
     				{/foreach}
