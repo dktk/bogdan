@@ -1,7 +1,7 @@
 <section class="sub-bnr">
 	<div class="position-center-center">
 		<div class="container">
-		<h1>Dirigentie de santier</h1>
+		<h1>Diriginte de santier</h1>
 		<hr class="main">
 		<!-- Breadcrumb -->
 		<ol class="breadcrumb">
@@ -16,7 +16,7 @@
 <section class="content-page padding-top-100 padding-bottom-100 line-height-22 diriginte">
 	<div class="container">
 		<div class="project-detail margin-top-50 margin-bottom-50">
-		<h2 class="font-normal margin-bottom-30">Dirigentie de <span class="primary-color">santier</span></h2>
+		<h2 class="font-normal margin-bottom-30">Diriginte de <span class="primary-color">santier</span></h2>
 
 		<em> <i class="fa fa-exclamation-triangle"></i> Nici o casa nu mai poate fi construita fara angajarea unui Diriginte de Santier </em>
 
@@ -25,10 +25,10 @@
 			Firma ADVANCED DESIGN asigura servicii de dirigente de santier prin personal autorizat de Inspectia de Stat in Constructii pentru domeniile:
 			<li>
 			<li class="align">
-			8.2 Instalatii sanitare si termoventilatii
+				8.2 Instalatii sanitare si termoventilatii
 			</li>
 			<li class="align">
-	 		8.3 Instalatii electrice
+					8.3 Instalatii electrice
 			</li>
 		</ul>
 
@@ -36,10 +36,13 @@
 	<p>
 		Diriginte de santier este persoana fizica insarcinata de catre investitor cu verificarea calitatii materialelor si produselor puse in lucrare si/ sau verificarea executiei corecte a lucrarilor de constructii
 	</p>
-
-	<h4 class="title">De ce este Dirigintele de santier obligatoriu?</h4>
 	<p>
-		Legea 10 din 1995 actualizata la 6 iulie cu Legea 177.2015 prevede la art.13 alin.3 ca “Verificarea calitatii lucrarilor executate pentru realizarea constructiilor si a interventiilor la constructiile existente, pentru care se emit, în conditiile legii, autorizatii de construire sau de desfiintare, este obligatorie si se efectueaza de catre investitori prin diriginti de santier autorizati, angajati ai investitorilor si prin responsabili tehnici cu executia autorizati, angajati ai executantilor.”
+		Acesta raspunde fata de investitor/beneficiar si fata de organele abilitate, conform legii, pentru verificarea corecta a executiei lucrarilor de constructii, respectand proiectul si legislatia in vigoare.
+	</p>
+
+	<h4 class="title">De ce este obligatoriu un Diriginte de santier?</h4>
+	<p>
+		<a class="anchor" href="/lege/legea_10_din_1995.pdf" target="_blank" rel="nofollow">	Legea 10 din 1995 </a> actualizata la 6 iulie cu Legea 177 din 2015 prevede la art.13 alin.3 ca “Verificarea calitatii lucrarilor executate pentru realizarea constructiilor si a interventiilor la constructiile existente, pentru care se emit, în conditiile legii, autorizatii de construire sau de desfiintare, este obligatorie si se efectueaza de catre investitori prin diriginti de santier autorizati, angajati ai investitorilor si prin responsabili tehnici cu executia autorizati, angajati ai executantilor.”
 	</p>
 	<p>
 	In aceeasi lege la obligatii si rapsundei ale investitorilor la art.21 lit. d) se prevede ca obligatie principala “asigurarea verificarii executiei corecte a lucrarilor de constructii prin diriginti de specialitate sau operatori economici de consultanta specializati, pe tot parcursul lucrarilor; “

@@ -8,6 +8,6 @@
 
 			"diriginte de santier, dirigentie de santier, diriginte de santier satu mare, dirigentie de santier satu mare",
 
-			"dirigentie-de-santier"
+			"diriginte-de-santier"
 	);
 ?>

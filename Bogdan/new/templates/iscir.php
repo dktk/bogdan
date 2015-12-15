@@ -18,7 +18,7 @@
 		<div class="project-detail margin-top-50 margin-bottom-50">
 			<h2 class="font-normal margin-bottom-30">Verificarea tehnica periodica <span class="primary-color">ISCIR</span></h2>
 			<p>
-				Firma ADVANCED DESIGN autorizata ISCIR va ofera posibilitatea de a face verificarea tehnica periodica a centralelor dumneavostra, care este obligatorie din 2 in 2 ani, conform legislatiei in vigoare (PT-A1 2010 si Legea 64 din 2008)
+				Firma ADVANCED DESIGN autorizata ISCIR va ofera posibilitatea de a face verificarea tehnica periodica a centralelor dumneavostra, care este obligatorie din 2 in 2 ani, conform legislatiei in vigoare (<a href="lege/pt_a1.pdf" class="anchor" target="_blank" rel="nofollow">PT-A1 din 2010</a> si <a href="lege/legea_64_din_2008.pdf" class="anchor" target="_blank" rel="nofollow">Legea 64 din 2008</a>)
 			</p>
 
 			<p>

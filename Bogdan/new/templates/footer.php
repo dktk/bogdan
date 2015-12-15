@@ -27,7 +27,7 @@
       <div class="row">
 
         <!-- ABOUT -->
-        <div class="col-md-4"> <img class="margin-bottom-20" src="images/logo-footer.png" alt="">
+        <div class="col-md-4"> <img class="margin-bottom-20" src="images/sigla_ba.png" alt="">
           <p>Proiectare si consultanta in instalatii</p>
           <ul class="social">
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>

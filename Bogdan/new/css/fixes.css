@@ -1,6 +1,18 @@
 body {
 	font-size: 1.8em;
 }
+
+header .logo img {
+	margin-left:36px;
+}
+a.anchor {
+	border-bottom: dashed #ffbe00;
+	padding-bottom: 0.3px;
+	border-bottom-width: medium;
+}
+a.anchor:hover {
+	color:#141414;
+}
 .top-info .social li a {
 	border-right: 1px solid #f0f0f0;
 	border-left:none;
@@ -84,7 +96,7 @@ h4.title {
 	padding: 10px 5px;
 	background-color:#ffbe00;
 	color: #222;
-	margin-bottom: 1em;
+	margin-bottom: 2.5em;
 	display: block;
 }
 .diriginte em i {

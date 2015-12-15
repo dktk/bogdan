@@ -15,6 +15,9 @@
 <!-- Bootstrap Core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
+<link rel="apple-touch-icon" href="favicon.png" />
+<link rel="shortcut icon" href="/favicon.png" />
+
 <!-- Custom CSS -->
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="css/ionicons.min.css" rel="stylesheet" />
@@ -42,7 +45,7 @@
   <!-- header -->
   <div class="container relative">
     <header>
-      <div class="logo"> <a href="#."><img class="img-responsive" src="images/logo.png" alt=""></a> </div>
+      <div class="logo"> <a href="#."><img class="img-responsive" src="images/sigla.png" alt=""></a> </div>
       <!-- Top bar -->
       <div class="top-bar">
         <div class="top-info">
@@ -68,7 +71,7 @@
         <!-- Navigation -->
         <nav class="navbar">
           <ul class="nav ownmenu">
-            
+
             {foreach from=$Menu key=k item=i}
     					<li {if strrpos($i, $SelMenu) === 0}class="active"{/if}><a href="{$i}">{$k}</a></li>
     				{/foreach}

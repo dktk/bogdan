@@ -50,17 +50,15 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 	<div class="service">
 		<h4>Proiectare si executie instalatii de sanitare</h4>
 		<ul class="cate">
-			<li>	Instalatii interioare si exterioare de alimentare cu apa </li>
+			<li> Instalatii interioare si exterioare de alimentare cu apa </li>
+			<li> Instalatii de preparare si alimentare cu apa calda de consum menajer</li>
 		</ul>
 	</div>
 
 	<div class="service">
-		<h4>Instalatii de preparare si alimentare cu apa calda de consum menajer</h4>
-		<ul class="cate">
-			<li>
+		<h4>
 			Instalatii pentru stins incendii cu apa (hidranti, sprinklere, drencere), gospodarii de apa de consum si pentru incendii, canalizari de ape uzate menajere/pluviale
-			</li>
-		</ul>
+		</h4>
 	</div>
 
 	<div class="service">
