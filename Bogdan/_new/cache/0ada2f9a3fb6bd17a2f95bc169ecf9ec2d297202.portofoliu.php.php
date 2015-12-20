@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:23:47
+/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:39:35
   from "D:\projects\Bogdan\Bogdan\_new\templates\portofoliu.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56769dd3aff591_58620346',
+  'unifunc' => 'content_5676a187325ce8_74073869',
   'file_dependency' => 
   array (
     '0ada2f9a3fb6bd17a2f95bc169ecf9ec2d297202' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\portofoliu.php',
-      1 => 1450614225,
+      1 => 1450615137,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_56769dd3aff591_58620346 ($_smarty_tpl) {
+function content_5676a187325ce8_74073869 ($_smarty_tpl) {
 ?>
 <section class="sub-bnr">
     <div class="position-center-center">
@@ -42,6 +42,7 @@ function content_56769dd3aff591_58620346 ($_smarty_tpl) {
 
         <!-- Work -->
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="orientului"></a>
           <h3>bloc <span class="str">str. </span><span> Orientului</span></h3>
           <hr>
           <ul>
@@ -54,6 +55,7 @@ function content_56769dd3aff591_58620346 ($_smarty_tpl) {
         <hr class="main" />
 
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="paris"></a>
           <h3>bloc <span class="str">str. </span><span>Paris</span></h3>
           <hr>
           <ul>
@@ -65,6 +67,7 @@ function content_56769dd3aff591_58620346 ($_smarty_tpl) {
         <hr class="main" />
 
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="brasov"></a>
           <h3>bloc <span>Brasov</span></h3>
           <hr>
           <ul>
@@ -75,6 +78,7 @@ function content_56769dd3aff591_58620346 ($_smarty_tpl) {
         <hr class="main" />
 
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="pastoral"></a>
           <h3>centrul <span>Pastoral</span></h3>
           <hr>
           <ul>

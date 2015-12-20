@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-19 22:04:46
+/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:39:24
   from "D:\projects\Bogdan\Bogdan\_new\templates\index.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5675c66e5e8832_69561939',
+  'unifunc' => 'content_5676a17c2a0091_07019185',
   'file_dependency' => 
   array (
     '4fc528ab9510f89adb676576a831b4154378d29a' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\index.php',
-      1 => 1450404664,
+      1 => 1450614906,
       2 => 'file',
     ),
   ),
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5675c66e5e8832_69561939 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '193805675c66e5c48f6_38444633';
+function content_5676a17c2a0091_07019185 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '72865676a17c27d990_01880134';
 ?>
  <!--======= HOME MAIN SLIDER =========-->
     <section class="home-slider">
@@ -198,7 +198,7 @@ $_smarty_tpl->compiled->nocache_hash = '193805675c66e5c48f6_38444633';
           <div class="portfolio-wrapper">
             <div class="filter">
               <div class="text-right">
-                <ul>
+                <ul style="display:none;">
                   <li><a class="active" data-toggle="tab" href="#." data-filter="*">Toate proiectele</a><span>|</span></li>
                   <li><a href="#" data-filter=".interior">Gaz </a><span>|</span></li>
                   <li><a href="#" data-filter=".building">Incalzire </a><span>|</span></li>

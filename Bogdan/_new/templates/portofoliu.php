@@ -21,6 +21,7 @@
 
         <!-- Work -->
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="orientului"></a>
           <h3>bloc <span class="str">str. </span><span> Orientului</span></h3>
           <hr>
           <ul>
@@ -33,6 +34,7 @@
         <hr class="main" />
 
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="paris"></a>
           <h3>bloc <span class="str">str. </span><span>Paris</span></h3>
           <hr>
           <ul>
@@ -44,6 +46,7 @@
         <hr class="main" />
 
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="brasov"></a>
           <h3>bloc <span>Brasov</span></h3>
           <hr>
           <ul>
@@ -54,6 +57,7 @@
         <hr class="main" />
 
         <div class="project-detail margin-top-50 margin-bottom-50">
+          <a id="pastoral"></a>
           <h3>centrul <span>Pastoral</span></h3>
           <hr>
           <ul>

@@ -174,7 +174,7 @@
           <div class="portfolio-wrapper">
             <div class="filter">
               <div class="text-right">
-                <ul>
+                <ul style="display:none;">
                   <li><a class="active" data-toggle="tab" href="#." data-filter="*">Toate proiectele</a><span>|</span></li>
                   <li><a href="#" data-filter=".interior">Gaz </a><span>|</span></li>
                   <li><a href="#" data-filter=".building">Incalzire </a><span>|</span></li>
