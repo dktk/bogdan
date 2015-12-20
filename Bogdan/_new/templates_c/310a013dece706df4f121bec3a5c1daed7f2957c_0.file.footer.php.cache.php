@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-18 03:12:18
+/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:23:47
   from "D:\projects\Bogdan\Bogdan\_new\templates\footer.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56736b82341eb1_49278798',
+  'unifunc' => 'content_56769dd3b16529_40193083',
   'file_dependency' => 
   array (
     '310a013dece706df4f121bec3a5c1daed7f2957c' => 
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_56736b82341eb1_49278798 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1024356736b82339eb8_58570906';
+function content_56769dd3b16529_40193083 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '105956769dd3b0d0b9_35605130';
 ?>
   <!-- SUB FOOTER -->
   <section class="sub-footer">

@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-18 03:12:18
+/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:23:47
   from "D:\projects\Bogdan\Bogdan\_new\templates\portofoliu.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56736b823153e6_69785607',
+  'unifunc' => 'content_56769dd3af3787_42231651',
   'file_dependency' => 
   array (
     '0ada2f9a3fb6bd17a2f95bc169ecf9ec2d297202' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\portofoliu.php',
-      1 => 1449358381,
+      1 => 1450614225,
       2 => 'file',
     ),
   ),
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_56736b823153e6_69785607 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1246656736b823094d0_94316344';
+function content_56769dd3af3787_42231651 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '2696256769dd3aea034_01151605';
 ?>
 <section class="sub-bnr">
     <div class="position-center-center">
@@ -36,129 +36,56 @@ $_smarty_tpl->compiled->nocache_hash = '1246656736b823094d0_94316344';
     </div>
     <div class="scroll"> <a href="#content" class="go-down"></a></div>
   </section>
-  
-  <div id="content"> 
-    
+
+  <div id="content">
+
     <!-- LATEST WORK -->
-    <section class="latest-work white-bg light-port padding-top-150 padding-bottom-150">
-      <div class="container"> 
-        
+    <section class="latest-work white-bg light-port padding-top-150 padding-bottom-150 portofoliu">
+      <div class="container">
+
         <!-- Work -->
-        <div class="heading text-left">
-          <h3> Project <span>Details</span></h3>
-          <hr>
-        </div>
-        <div class="row">
-          <div class="col-md-8"> <img class="img-responsive" src="images/img-single.jpg" alt=""> </div>
-          
-          <!-- INTRO INTRO -->
-          <div class="col-md-4">
-            <ul class="services-intro">
-              <!-- Architecture -->
-              <li>
-                <div class="media-left">
-                  <div class="icon"><img src="images/intro-icon-3.png" alt=""></div>
-                </div>
-                <div class="media-body">
-                  <h6 class="font-normal margin-bottom-10">Denumire proiect</h6>
-                  <p>Centrul Social Pastoral “Sfanta Maria”</p>
-                </div>
-              </li>
-              <!-- Interior Design -->
-              <li>
-                <div class="media-left">
-                  <div class="icon"><img src="images/item-icon-1.png" alt=""></div>
-                </div>
-                <div class="media-body">
-                  <h6 class="font-normal margin-bottom-10">Detalii client</h6>
-                  <p>????????CEO, IBC Internationals</p>
-                </div>
-              </li>
-              <!-- Consulting -->
-              <li>
-                <div class="media-left">
-                  <div class="icon"><img src="images/item-icon-2.png" alt=""></div>
-                </div>
-                <div class="media-body">
-                  <h6 class="font-normal margin-bottom-10">Durata proiectului</h6>
-                  <p>18 luni</p>
-                </div>
-              </li>
-              <!-- Special Projects -->
-              <li>
-                <div class="media-left">
-                  <div class="icon"><img src="images/item-icon-3.png" alt=""></div>
-                </div>
-                <div class="media-body">
-                  <h6 class="font-normal margin-bottom-10">Locatie</h6>
-                  <p> loc. Botiz, jud. Satu Mare</p>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
         <div class="project-detail margin-top-50 margin-bottom-50">
-          <h3 class="font-normal margin-bottom-30">Descrierea <span class="primary-color">proiectului</span></h3>
-          <p>Till the one day when the lady met this fellow and they knew it was much more than a hunch. Fleeing from the Cylon tyranny the last Battlestar – Galactica - leads a rag-tag fugitive fleet on a lonely quest - a shining planet known as Earth. He's gainin' on you so you better look alive.<br>
-            <br>
-            He busy revin' up his Powerful Mach 5. The year is 1987 and NASA launches the last of Americas deep space probes. I have always wanted to have a neighbor just like you. I've always wanted to live in a neighborhood with you. Believe it or not I'm walking on air. I never thought I could feel so free. Flying away on a wing and a prayer. Who could it be? Believe it or not its just me.</p>
+          <h3>bloc <span class="str">str. </span><span> Orientului</span></h3>
+          <hr>
+          <ul>
+            <li><img src="portofoliu/orientului/orientului_1.jpg" alt="Orientului" width="350" /></li>
+            <li><img src="portofoliu/orientului/orientului_3.jpg" alt="Orientului" width="350" /></li>
+            <li><img src="portofoliu/orientului/orientului_2.jpg" alt="Orientului" width="350" /></li>
+          </ul>
         </div>
-        <div class="portfolio-wrapper margin-top-100">
-          <h3 class="font-normal margin-bottom-30">Similiar <span class="primary-color">Items </span></h3>
-          <!-- ITEMS -->
-          <ul class="items col-4 row" style="position: relative; height: 252px;">
-            
-            <!-- ITEM -->
-            <li class="item col-md-4 building construction renovate" style="position: absolute; left: 0px; top: 0px;">
-              <div class="gal-item"> 
-                <!-- GALLERY IMAGE --> 
-                <img src="http://premiumlayers.com/demos/marize/images/img-13.jpg" alt="" class="img-responsive"> 
-                <!-- Hover Info -->
-                <div class="hover-info">
-                  <h6>Construction</h6>
-                  <p> Maxius Ligula Semper</p>
-                  <a href="#."><i class="ion-android-arrow-forward"></i></a> </div>
-              </div>
-            </li>
-            <!-- ITEM -->
-            <li class="item col-md-4  construction" style="position: absolute; left: 287px; top: 0px;">
-              <div class="gal-item"> 
-                <!-- GALLERY IMAGE --> 
-                <img src="http://premiumlayers.com/demos/marize/images/img-14.jpg" alt="" class="img-responsive"> 
-                <!-- Hover Info -->
-                <div class="hover-info">
-                  <h6>Construction</h6>
-                  <p> Maxius Ligula Semper</p>
-                  <a href="#."><i class="ion-android-arrow-forward"></i></a> </div>
-              </div>
-            </li>
-            <!-- ITEM -->
-            <li class="item col-md-4 interio renovate" style="position: absolute; left: 575px; top: 0px;">
-              <div class="gal-item"> 
-                <!-- GALLERY IMAGE --> 
-                <img src="http://premiumlayers.com/demos/marize/images/img-15.jpg" alt="" class="img-responsive"> 
-                <!-- Hover Info -->
-                <div class="hover-info">
-                  <h6>Construction</h6>
-                  <p> Maxius Ligula Semper</p>
-                  <a href="#."><i class="ion-android-arrow-forward"></i></a> </div>
-              </div>
-            </li>
-            <!-- ITEM -->
-            <li class="item col-md-4 interior building construction" style="position: absolute; left: 862px; top: 0px;">
-              <div class="gal-item"> 
-                <!-- GALLERY IMAGE --> 
-                <img src="http://premiumlayers.com/demos/marize/images/img-16.jpg" alt="" class="img-responsive"> 
-                <!-- Hover Info -->
-                <div class="hover-info">
-                  <h6>Construction</h6>
-                  <p> Maxius Ligula Semper</p>
-                  <a href="#."><i class="ion-android-arrow-forward"></i></a> </div>
-              </div>
-            </li>
+
+        <hr class="main" />
+
+        <div class="project-detail margin-top-50 margin-bottom-50">
+          <h3>bloc <span class="str">str. </span><span>Paris</span></h3>
+          <hr>
+          <ul>
+            <li><img src="portofoliu/paris/paris_1.jpg" alt="paris" width="350" /></li>
+            <li><img src="portofoliu/paris/paris_2.jpg" alt="paris" width="350" /></li>
+          </ul>
+        </div>
+
+        <hr class="main" />
+
+        <div class="project-detail margin-top-50 margin-bottom-50">
+          <h3>bloc <span>Brasov</span></h3>
+          <hr>
+          <ul>
+              <li><img src="portofoliu/brasov/brasov.jpg" alt="brasov" width="350" /></li>
+          </ul>
+        </div>
+
+        <hr class="main" />
+
+        <div class="project-detail margin-top-50 margin-bottom-50">
+          <h3>centrul <span>Pastoral</span></h3>
+          <hr>
+          <ul>
+            <li><img src="portofoliu/pastoral/centru_pastoral.jpg" alt="centrul pastoral" width="350" /></li>
           </ul>
         </div>
       </div>
     </section>
-  </div><?php }
+  </div>
+<?php }
 }

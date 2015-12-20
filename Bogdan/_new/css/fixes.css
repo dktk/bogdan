@@ -112,3 +112,15 @@ h4.title {
 .intro-ser .cert {
 	margin-bottom:14px;
 }
+
+.portofoliu li{
+	display: inline-block;
+
+	widht: 350px;
+
+	margin: 10px 15px;
+}
+
+.portofoliu h3 span.str {
+	text-transform: lowercase;
+}
