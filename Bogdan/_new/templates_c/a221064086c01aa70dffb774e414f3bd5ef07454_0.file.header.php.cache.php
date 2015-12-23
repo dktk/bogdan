@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:39:35
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:45:54
   from "D:\projects\Bogdan\Bogdan\_new\templates\header.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5676a1872e7dc1_49590572',
+  'unifunc' => 'content_5679e0b2d17fd2_80442555',
   'file_dependency' => 
   array (
     'a221064086c01aa70dffb774e414f3bd5ef07454' => 
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5676a1872e7dc1_49590572 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '284935676a1872b4579_62611956';
+function content_5679e0b2d17fd2_80442555 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '317185679e0b2ce2d08_00550733';
 ?>
 <!DOCTYPE html>
 <html lang="ro" class="csstransforms csstransforms3d csstransitions"><head>

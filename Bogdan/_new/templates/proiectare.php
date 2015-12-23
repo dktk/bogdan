@@ -29,6 +29,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 <p>ADVANCED DESIGN asigura ca serivicii de proiectare urmatoarele:</p>
 
 <div class="service">
+	<a id="gaz"></a>
 	<h4>Proiectare si executie instalatii de gaz</h4>
 	<ul class="cate">
 		<li>Consultanta de specialitate</li>
@@ -41,6 +42,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 </div>
 
 	<div class="service">
+		<a id="incalzire"></a>
 		<h4>Proiectare si executie instalatii de incalzire</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare de incalzire prin corpuri statice (radiatoare, convectoare de pardoseala) </li>
@@ -48,6 +50,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 		</ul>
 	</div>
 	<div class="service">
+		<a id="sanitare"></a>
 		<h4>Proiectare si executie instalatii de sanitare</h4>
 		<ul class="cate">
 			<li> Instalatii interioare si exterioare de alimentare cu apa </li>
@@ -59,6 +62,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 	</div>
 
 	<div class="service">
+		<a id="electrice"></a>
 		<h4>Proiectare si executie instalatii de electrice</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare si exterioare de iluminat </li>

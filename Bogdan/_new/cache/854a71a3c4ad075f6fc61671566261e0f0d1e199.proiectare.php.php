@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-18 03:12:09
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:30:05
   from "D:\projects\Bogdan\Bogdan\_new\templates\proiectare.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56736b79ed2390_07956471',
+  'unifunc' => 'content_5679dcfdb42555_54254935',
   'file_dependency' => 
   array (
     '854a71a3c4ad075f6fc61671566261e0f0d1e199' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\proiectare.php',
-      1 => 1450404728,
+      1 => 1450826949,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_56736b79ed2390_07956471 ($_smarty_tpl) {
+function content_5679dcfdb42555_54254935 ($_smarty_tpl) {
 ?>
 		<section class="sub-bnr">
     <div class="position-center-center">
@@ -50,6 +50,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 <p>ADVANCED DESIGN asigura ca serivicii de proiectare urmatoarele:</p>
 
 <div class="service">
+	<a id="gaz"></a>
 	<h4>Proiectare si executie instalatii de gaz</h4>
 	<ul class="cate">
 		<li>Consultanta de specialitate</li>
@@ -62,6 +63,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 </div>
 
 	<div class="service">
+		<a id="incalzire"></a>
 		<h4>Proiectare si executie instalatii de incalzire</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare de incalzire prin corpuri statice (radiatoare, convectoare de pardoseala) </li>
@@ -69,6 +71,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 		</ul>
 	</div>
 	<div class="service">
+		<a id="sanitare"></a>
 		<h4>Proiectare si executie instalatii de sanitare</h4>
 		<ul class="cate">
 			<li> Instalatii interioare si exterioare de alimentare cu apa </li>
@@ -80,6 +83,7 @@ Activitatea de proiectare pe care o desfasuram include partea de instalatii in c
 	</div>
 
 	<div class="service">
+		<a id="electrice"></a>
 		<h4>Proiectare si executie instalatii de electrice</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare si exterioare de iluminat </li>

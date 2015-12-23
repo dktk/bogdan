@@ -113,7 +113,7 @@ h4.title {
 	margin-bottom:14px;
 }
 
-.portofoliu li{
+.portofoliu li {
 	display: inline-block;
 
 	widht: 350px;
@@ -121,6 +121,17 @@ h4.title {
 	margin: 10px 15px;
 }
 
+.portofoliu li img {
+	padding:4px;
+	border: solid 1px #ccc;
+}
 .portofoliu h3 span.str {
 	text-transform: lowercase;
+}
+hr.main {
+	margin: 20px auto;
+}
+
+.project-detail {
+	margin-bottom: 75px !important;
 }

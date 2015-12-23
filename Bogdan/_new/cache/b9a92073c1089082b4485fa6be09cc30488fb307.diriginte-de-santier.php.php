@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:22:03
+/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:53:14
   from "D:\projects\Bogdan\Bogdan\_new\templates\diriginte-de-santier.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56769d6b355089_07005779',
+  'unifunc' => 'content_5676a4ba35c159_69895576',
   'file_dependency' => 
   array (
     'b9a92073c1089082b4485fa6be09cc30488fb307' => 
@@ -17,7 +17,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_56769d6b355089_07005779 ($_smarty_tpl) {
+function content_5676a4ba35c159_69895576 ($_smarty_tpl) {
 ?>
 <section class="sub-bnr">
 	<div class="position-center-center">

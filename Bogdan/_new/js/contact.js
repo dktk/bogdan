@@ -1,12 +1,20 @@
 function initMap() {
-  map = new google.maps.Map(document.getElementById('map'), {
+  var options = {
+    scrollwheel: false,
+    navigationControl: false,
+    mapTypeControl: false,
+    scaleControl: false,
+    draggable: false,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
     zoom: 16,
     center: {
       lat: 47.793750,
       lng: 22.877049
     },
     disableDefaultUI: true
-  });
+  };
+
+  map = new google.maps.Map(document.getElementById('map'), options);
 
   var marker = new google.maps.Marker({
     position: {

@@ -26,7 +26,7 @@
               data-elementdelay="0.0" data-endelementdelay="0.0" data-endspeed="300" style="z-index: 6; color:#fff; font-size:18px;">Experienta si Profesionalism in Instalatii</div>
 
               <!-- LAYER NR. 3 -->
-              <div class="tp-caption sfb font-bold text-center tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="50"
+              <div class="tp-caption sfb font-bold text-center tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="60"
               data-speed="500" data-start="1500" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none"
               data-elementdelay="0.0" data-endelementdelay="0.0" data-endspeed="300" style="z-index: 6; color:#fff; font-size:18px;">
               Comfortul casei tale, prioritatea noastra principala</div>
@@ -49,7 +49,7 @@
               data-elementdelay="0.0" data-endelementdelay="0.0" data-endspeed="300" style="z-index: 6; color:#fff; font-size:18px;">Experienta si Profesionalism in Instalatii</div>
 
               <!-- LAYER NR. 3 -->
-              <div class="tp-caption sfb font-bold text-center tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="50"
+              <div class="tp-caption sfb font-bold text-center tp-resizeme" data-x="center" data-hoffset="0" data-y="center" data-voffset="60"
               data-speed="500" data-start="1500" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none"
               data-elementdelay="0.0" data-endelementdelay="0.0" data-endspeed="300" style="z-index: 6; color:#fff; font-size:18px;">
               Comfortul casei tale, prioritatea noastra principala</div>
@@ -88,7 +88,7 @@
                     <h6 class="font-normal no-margin margin-bottom-20">ISCIR</h6>
                     <p>Siguranta casei dumneavoastra asigurata de controale tehnice periodice.</p>
                     <p>Controale efectuate cu aparatura moderna, de inalta calitate.</p>
-                    <a href="#" class="font-pt cert">detalii</a>
+                    <a href="iscir.php" class="font-pt cert">detalii</a>
                   </div>
                 </li>
 
@@ -122,7 +122,7 @@
                     <div class="icon"><img src="images/intro-icon-3.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Gaz</h6>
+                    <h6 class="font-normal margin-bottom-10"><a href="proiectare.php#gaz">Gaz</a></h6>
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
@@ -132,7 +132,7 @@
                     <div class="icon"><img src="images/intro-icon-4.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Incalzire</h6>
+                    <h6 class="font-normal margin-bottom-10"><a href="proiectare.php#incalzire">Incalzire</a></h6>
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
@@ -142,7 +142,7 @@
                     <div class="icon"><img src="images/intro-icon-5.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Sanitare</h6>
+                    <h6 class="font-normal margin-bottom-10"><a href="proiectare.php#sanitare">Sanitare</a></h6>
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
@@ -152,7 +152,7 @@
                     <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
                   </div>
                   <div class="media-body">
-                    <h6 class="font-normal margin-bottom-10">Electrice</h6>
+                    <h6 class="font-normal margin-bottom-10"><a href="proiectare.php#electrice">Electrice</a></h6>
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
@@ -251,11 +251,15 @@
           <!-- Row -->
           <div class="row">
             <div class="col-md-5">
-              <p class="line-height-26">Maybe you and me were never meant to be. But baby think me once in awhile. I'm at WKRP in Cincinnati." But
-                they got diff'rent strokes. It takes diff'rent strokes different strokes to move the world Beats with the
-                law since the day they was born.
-                <br> They call him Flipper Flipper faster than lightning. No one you see is smarter than he.</p>
-
+              <p class="line-height-26">
+                Pozitionata in centrul orasului Satu Mare, compania Advanced Design se remarca de la inceput prin seriozitatea cu care duce la bun sfarsit proiectele de Inginerie in Instalatii pe care si le asuma.
+              </p>
+              <p>
+                  Cu o experienta vasta si diversa si cu o retea de colaboratori in domeniile conexe, compania Advanced Design este pozitionata strategic sa propuna si sa execute proiecte de Instalaii la cel mai inalt nivel.
+              </p>
+              <p>
+                In conditiile in care, fiecare proiect cauta sa fie intr-un continuu echilibru intre timp, resurse si asteptari, compania Advanced Design este dedicata in totalitate gasirii acestui punct de echilibru.
+              </p>
               <!-- Process -->
               <div class="num-process">
                 <ul class="row">
@@ -289,21 +293,21 @@
                       <div class="icon"><img src="images/icon-why-1.png" alt=""></div>
                     </div>
                     <div class="media-body">
-                      <h6 class="font-normal margin-bottom-10">CONSTRUCTION</h6>
-                      <p>Fresh minds with creative ideas</p>
+                      <h6 class="font-normal margin-bottom-10">Proiectare</h6>
+                      <p>Fiecare proiect incepe pe hartie.</p>
                     </div>
                     <a href="#." class="go"><i class="fa fa-angle-right"></i></a> </article>
                 </li>
 
                 <!-- Interior Design -->
                 <li class="col-md-6">
-                  <article>
+                  <article style="padding-bottom:62px;">
                     <div class="media-left">
                       <div class="icon"><img src="images/icon-why-2.png" alt=""></div>
                     </div>
                     <div class="media-body">
-                      <h6 class="font-normal margin-bottom-10">Interior Design</h6>
-                      <p>A new touch is always welcome</p>
+                      <h6 class="font-normal margin-bottom-10">Consultanta</h6>
+                      <p>Expertiza profesionala</p>
                     </div>
                     <a href="#." class="go"><i class="fa fa-angle-right"></i></a> </article>
                 </li>
@@ -315,8 +319,8 @@
                       <div class="icon"><img src="images/icon-why-3.png" alt=""></div>
                     </div>
                     <div class="media-body">
-                      <h6 class="font-normal margin-bottom-10">Consulting</h6>
-                      <p>Fresh minds with creative ideas</p>
+                      <h6 class="font-normal margin-bottom-10">Control periodic</h6>
+                      <p>Avariile tind sa se intample aleator, deci controalele trebuie sa fie periodice.</p>
                     </div>
                     <a href="#." class="go"><i class="fa fa-angle-right"></i></a> </article>
                 </li>
@@ -328,8 +332,8 @@
                       <div class="icon"><img src="images/icon-why-4.png" alt=""></div>
                     </div>
                     <div class="media-body">
-                      <h6 class="font-normal margin-bottom-10">Special Projects</h6>
-                      <p>We do best work to your projects</p>
+                      <h6 class="font-normal margin-bottom-10">Proiecte speciale</h6>
+                      <p>Fiecare proiect e special, dar unele proiecte chiar sunt speciale.</p>
                     </div>
                     <a href="#." class="go"><i class="fa fa-angle-right"></i></a> </article>
                 </li>
@@ -339,91 +343,5 @@
         </div>
       </section>
 
-      <!-- Testimonial -->
-      <section class="testimonial light-gray-bg padding-top-150 padding-bottom-150">
-        <div class="container">
 
-          <!-- Heading -->
-          <div class="heading text-center margin-bottom-60">
-            <h3>Parerea <span>Clientilor</span></h3>
-            <hr>
-            <p>Nimic nu te recomanda mai mult decat ceea ce au de spus despre tine oamenii cu care ai interactionat.</p>
-          </div>
-
-          <!-- Test Slider -->
-          <div class="testi">
-            <div class="testi-two">
-
-              <!-- Slider 1 -->
-              <div class="media">
-                <div class="in-testi">
-                  <p>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since
-                    the day they was born. The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch.</p>
-                  <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-                    <i
-                    class="fa fa-star-half-o"></i>
-                  </div>
-                </div>
-
-                <!-- Avatar -->
-                <div class="testi-name">
-                  <div class="media-left">
-                    <a class="avatar" href="#."> <img class="media-object" src="images/avatar-testi.jpg" alt=""> </a>
-                  </div>
-                  <!-- Content -->
-                  <div class="media-body relative padding-left-10"> <i class="fa fa-quote-left quote"></i>
-                    <h5>Steven Smith</h5>
-                    <span>ceo & founder</span> </div>
-                </div>
-              </div>
-
-              <!-- Slider 2 -->
-              <div class="media">
-                <div class="in-testi">
-                  <p>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since
-                    the day they was born. The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch.</p>
-                  <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-                    <i
-                    class="fa fa-star-half-o"></i>
-                  </div>
-                </div>
-
-                <!-- Avatar -->
-                <div class="testi-name">
-                  <div class="media-left">
-                    <a class="avatar" href="#."> <img class="media-object" src="images/avatar-testi-1.jpg" alt=""> </a>
-                  </div>
-                  <!-- Content -->
-                  <div class="media-body relative padding-left-10"> <i class="fa fa-quote-left quote"></i>
-                    <h5>Steven Smith</h5>
-                    <span>ceo & founder</span> </div>
-                </div>
-              </div>
-
-              <!-- Slider 3 -->
-              <div class="media">
-                <div class="in-testi">
-                  <p>Just two good ol' boys Never meanin' no harm. Beats all you've ever saw been in trouble with the law since
-                    the day they was born. The Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch.</p>
-                  <div class="stars"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-                    <i
-                    class="fa fa-star-half-o"></i>
-                  </div>
-                </div>
-
-                <!-- Avatar -->
-                <div class="testi-name">
-                  <div class="media-left">
-                    <a class="avatar" href="#."> <img class="media-object" src="images/avatar-testi.jpg" alt=""> </a>
-                  </div>
-                  <!-- Content -->
-                  <div class="media-body relative padding-left-10"> <i class="fa fa-quote-left quote"></i>
-                    <h5>Steven Smith</h5>
-                    <span>ceo & founder</span> </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
     </div>

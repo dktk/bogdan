@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-20 13:22:07
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:30:10
   from "D:\projects\Bogdan\Bogdan\_new\templates\iscir.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_56769d6f028423_32977053',
+  'unifunc' => 'content_5679dd02e8b885_33149681',
   'file_dependency' => 
   array (
     'b45b08dd8f2252550613ba0eff64780776543377' => 
@@ -17,7 +17,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_56769d6f028423_32977053 ($_smarty_tpl) {
+function content_5679dd02e8b885_33149681 ($_smarty_tpl) {
 ?>
 <section class="sub-bnr">
 	<div class="position-center-center">
