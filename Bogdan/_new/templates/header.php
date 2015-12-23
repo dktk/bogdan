@@ -54,7 +54,7 @@
               <p><i class="fa fa-phone"></i> + 0740 38 18 82 </p>
             </li>
             <li>
-              <p><i class="fa fa-envelope-o"></i> bogdantuns@yahoo.com </p>
+              <p><i class="fa fa-envelope-o"></i>contact@advanceddesign.ro</p>
             </li>
             <li>
               <p><i class="fa fa-clock-o"></i> Luni - Vineri 09:00 - 18:00 </p>

@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:45:54
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 01:35:26
   from "D:\projects\Bogdan\Bogdan\_new\templates\header.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679e0b2d17fd2_80442555',
+  'unifunc' => 'content_5679ec4e95a547_14075226',
   'file_dependency' => 
   array (
     'a221064086c01aa70dffb774e414f3bd5ef07454' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\header.php',
-      1 => 1450141621,
+      1 => 1450830590,
       2 => 'file',
     ),
   ),
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5679e0b2d17fd2_80442555 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '317185679e0b2ce2d08_00550733';
+function content_5679ec4e95a547_14075226 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '257695679ec4e90c4a5_92379256';
 ?>
 <!DOCTYPE html>
 <html lang="ro" class="csstransforms csstransforms3d csstransitions"><head>
@@ -85,7 +85,7 @@ $_smarty_tpl->compiled->nocache_hash = '317185679e0b2ce2d08_00550733';
               <p><i class="fa fa-phone"></i> + 0740 38 18 82 </p>
             </li>
             <li>
-              <p><i class="fa fa-envelope-o"></i> bogdantuns@yahoo.com </p>
+              <p><i class="fa fa-envelope-o"></i>contact@advanceddesign.ro</p>
             </li>
             <li>
               <p><i class="fa fa-clock-o"></i> Luni - Vineri 09:00 - 18:00 </p>

@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:45:54
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 01:35:26
   from "D:\projects\Bogdan\Bogdan\_new\templates\footer.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679e0b2d89e58_48815477',
+  'unifunc' => 'content_5679ec4e9b9f50_82879858',
   'file_dependency' => 
   array (
     '310a013dece706df4f121bec3a5c1daed7f2957c' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\footer.php',
-      1 => 1450126125,
+      1 => 1450830641,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5679e0b2d89e58_48815477 ($_smarty_tpl) {
+function content_5679ec4e9b9f50_82879858 ($_smarty_tpl) {
 ?>
   <!-- SUB FOOTER -->
   <section class="sub-footer">
@@ -31,7 +31,7 @@ function content_5679e0b2d89e58_48815477 ($_smarty_tpl) {
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-envelope-o"></i> </div>
           <h6>via Email</h6>
-          <span>bogadantuns@yahoo.com </span>
+          <span>contact@advanceddesign.ro</span>
         </li>
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-clock-o"></i> </div>
@@ -69,7 +69,7 @@ function content_5679e0b2d89e58_48815477 ($_smarty_tpl) {
               <p><i class="fa fa-phone"></i> Telefon : +40 740 38 18 82 </p>
             </li>
             <li class="col-xs-12">
-              <p><i class="fa fa-envelope-o"></i> Mail : bogdantuns@yahoo.com</p>
+              <p><i class="fa fa-envelope-o"></i> Mail : contact@advanceddesign.ro</p>
             </li>
           </ul>
         </div>

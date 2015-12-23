@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:45:54
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 01:35:26
   from "D:\projects\Bogdan\Bogdan\_new\templates\portofoliu.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679e0b2d4bbd9_79639516',
+  'unifunc' => 'content_5679ec4e985fc5_34120357',
   'file_dependency' => 
   array (
     '0ada2f9a3fb6bd17a2f95bc169ecf9ec2d297202' => 
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5679e0b2d4bbd9_79639516 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '13195679e0b2d46491_81883206';
+function content_5679ec4e985fc5_34120357 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '26065679ec4e980af7_21346731';
 ?>
 <section class="sub-bnr">
     <div class="position-center-center">

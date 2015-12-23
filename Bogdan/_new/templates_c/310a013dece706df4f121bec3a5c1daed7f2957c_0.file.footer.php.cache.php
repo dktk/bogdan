@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:45:54
+/* Smarty version 3.1.28-dev/77, created on 2015-12-23 01:35:26
   from "D:\projects\Bogdan\Bogdan\_new\templates\footer.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679e0b2d79465_48604495',
+  'unifunc' => 'content_5679ec4e9ab609_70357185',
   'file_dependency' => 
   array (
     '310a013dece706df4f121bec3a5c1daed7f2957c' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\footer.php',
-      1 => 1450126125,
+      1 => 1450830641,
       2 => 'file',
     ),
   ),
@@ -19,8 +19,8 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5679e0b2d79465_48604495 ($_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '173645679e0b2d70107_94026057';
+function content_5679ec4e9ab609_70357185 ($_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '25115679ec4e99f393_39424587';
 ?>
   <!-- SUB FOOTER -->
   <section class="sub-footer">
@@ -34,7 +34,7 @@ $_smarty_tpl->compiled->nocache_hash = '173645679e0b2d70107_94026057';
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-envelope-o"></i> </div>
           <h6>via Email</h6>
-          <span>bogadantuns@yahoo.com </span>
+          <span>contact@advanceddesign.ro</span>
         </li>
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-clock-o"></i> </div>
@@ -72,7 +72,7 @@ $_smarty_tpl->compiled->nocache_hash = '173645679e0b2d70107_94026057';
               <p><i class="fa fa-phone"></i> Telefon : +40 740 38 18 82 </p>
             </li>
             <li class="col-xs-12">
-              <p><i class="fa fa-envelope-o"></i> Mail : bogdantuns@yahoo.com</p>
+              <p><i class="fa fa-envelope-o"></i> Mail : contact@advanceddesign.ro</p>
             </li>
           </ul>
         </div>

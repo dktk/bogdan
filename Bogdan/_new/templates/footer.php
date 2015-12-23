@@ -10,7 +10,7 @@
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-envelope-o"></i> </div>
           <h6>via Email</h6>
-          <span>bogadantuns@yahoo.com </span>
+          <span>contact@advanceddesign.ro</span>
         </li>
         <li class="col-sm-4">
           <div class="icon"> <i class="fa fa-clock-o"></i> </div>
@@ -48,7 +48,7 @@
               <p><i class="fa fa-phone"></i> Telefon : +40 740 38 18 82 </p>
             </li>
             <li class="col-xs-12">
-              <p><i class="fa fa-envelope-o"></i> Mail : bogdantuns@yahoo.com</p>
+              <p><i class="fa fa-envelope-o"></i> Mail : contact@advanceddesign.ro</p>
             </li>
           </ul>
         </div>
