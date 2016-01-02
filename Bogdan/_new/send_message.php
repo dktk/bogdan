@@ -17,7 +17,7 @@ function endsWith($haystack, $needle) {
 }
 
 function sendMail($name, $subject, $phone, $email, $message) {
-	$to      = 'calin.tuns@gmail.com';
+	$to      = 'bogdantuns@yahoo.com';
 	$standardSubject = 'Advanced Design - Contact message';
 	$headers = 'From: webmaster@advanceddesign.ro' . "\r\n" .
     'Reply-To: webmaster@example.com' . "\r\n" .
@@ -40,14 +40,10 @@ function handlePost() {
 		 $url = "http://localhost:10088/";
 
    if ($_POST["honey"] == "") {
-     // sendMail($name, $subject, $phone, $email, $message);
-     echo "sending mail";
+     sendMail($name, $subject, $phone, $email, $message);
    }
-   else {
-      echo "spammer spammer, have a hammer";
-   }
-
-   // Redirect($url . "contact-thankyou.php");
+   
+   Redirect($url . "contact-thankyou.php");
  }
 
  handlePost();

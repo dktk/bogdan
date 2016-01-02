@@ -38,7 +38,22 @@
 <![endif]-->
 </head>
 <body>
-
+<!-- Google Tag Manager --> 
+<noscript> 
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-T28G24" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+</noscript> 
+<script> 
+(function (w, d, s, l, i) { 
+                    w[l] = w[l] || []; w[l].push({ 
+                                        'gtm.start': 
+                                        new Date().getTime(), event: 'gtm.js' 
+                    }); var f = d.getElementsByTagName(s)[0], 
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+})(window, document, 'script', 'dataLayer', 'GTM-T28G24');</script> 
+<!-- End Google Tag Manager --> 
+ 	
 <!-- Wrap -->
 <div id="wrap">
 
@@ -61,11 +76,10 @@
             </li>
           </ul>
           <ul class="social">
-            <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#."><i class="fa fa-google"></i></a></li>
-            <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-          </ul>
+        <li><a target="_blank" href="https://www.facebook.com/AvdancedDesign"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://plus.google.com/u/0/107486738031529093383/about"><i class="fa fa-google"></i></a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/advanced-design"><i class="fa fa-linkedin"></i></a></li>   </ul>
         </div>
 
         <!-- Navigation -->

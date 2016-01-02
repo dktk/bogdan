@@ -30,10 +30,10 @@
         <div class="col-md-4"> <img class="margin-bottom-20" src="images/sigla_ba.png" alt="">
           <p>Proiectare si consultanta in instalatii</p>
           <ul class="social">
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-google"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a target="_blank" href="https://www.facebook.com/AvdancedDesign"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://plus.google.com/u/0/107486738031529093383/about"><i class="fa fa-google"></i></a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/advanced-design"><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>
 

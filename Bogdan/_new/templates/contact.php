@@ -55,16 +55,15 @@
 					   					<li class="col-sm-12">
                         <label>
 													<input type="text" name="phone" id="phone" class="form-control"
-															placeholder="TELEFON - 0798 765 432" required
-															pattern="^07\d\d\s\d\d\d\s\d\d\d" data-validation="phone"
+															placeholder="TELEFON - 0798765432" required
+															pattern="^07\d\d\d\d\d\d\d\d"
 															data-validation-error-msg-container="#errors-container" />
                         </label>
                       </li>
                       <li class="col-sm-12">
                         <label>
 													<input type="text" name="subject" id="subject"
-															placeholder="SUBIECT" class="form-control" required
-															pattern="^07\d\d\s\d\d\d\s\d\d\d$" data-validation="phone"
+															placeholder="SUBIECT" class="form-control" required															
 															data-validation-error-msg-container="#errors-container" />
 
                         </label>

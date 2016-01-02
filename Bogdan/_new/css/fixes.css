@@ -18,7 +18,7 @@ a.anchor:hover {
 	border-left:none;
 }
 .top-info .personal-info li {
-	padding: 15px;
+	padding: 14px;
 }
 .align {
 	text-indent: 2em;
@@ -134,4 +134,8 @@ hr.main {
 
 .project-detail {
 	margin-bottom: 75px !important;
+}
+
+.top-info .social li a {
+  height:52px;
 }

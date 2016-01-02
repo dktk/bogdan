@@ -36,7 +36,9 @@
 ehthumbs.db
 Thumbs.db
 
-bogdan/cache/**
-bogdan/templates_c/**
-bogdan/new/templates_c/**
-bogdan/new/cache/**
+Bogdan/cache/**
+Bogdan/templates_c/**
+Bogdan/new/templates_c/**
+Bogdan/new/cache/**
+Bogdan/new/_new/templates_c
+Bogdan/templates_c

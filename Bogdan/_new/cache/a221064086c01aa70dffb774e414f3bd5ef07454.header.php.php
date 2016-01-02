@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 01:35:26
+/* Smarty version 3.1.28-dev/77, created on 2015-12-28 21:51:12
   from "D:\projects\Bogdan\Bogdan\_new\templates\header.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679ec4e9724a2_11151876',
+  'unifunc' => 'content_5681a0c083a167_64901589',
   'file_dependency' => 
   array (
     'a221064086c01aa70dffb774e414f3bd5ef07454' => 
@@ -17,14 +17,14 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5679ec4e9724a2_11151876 ($_smarty_tpl) {
+function content_5681a0c083a167_64901589 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="ro" class="csstransforms csstransforms3d csstransitions"><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Advanced Design - Portofoliu de proiecte">
+<meta name="description" content="Advanced Design - Contacteaza-ne.">
 <meta name="keywords" content="Inginer instalator">
 
 
@@ -97,7 +97,7 @@ function content_5679ec4e9724a2_11151876 ($_smarty_tpl) {
     				    					<li ><a href="proiectare.php">Proiectare</a></li>
     				    					<li ><a href="iscir.php">ISCIR</a></li>
     				    					<li ><a href="diriginte-de-santier.php">Diriginte de santier</a></li>
-    				    					<li class="active"><a href="portofoliu.php">Portofoliu</a></li>
+    				    					<li ><a href="portofoliu.php">Portofoliu</a></li>
     				          </ul>
 
           <!-- GET A QUOTES -->

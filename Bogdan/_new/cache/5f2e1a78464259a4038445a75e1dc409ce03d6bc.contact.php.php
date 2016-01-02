@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 00:30:25
+/* Smarty version 3.1.28-dev/77, created on 2015-12-28 21:51:12
   from "D:\projects\Bogdan\Bogdan\_new\templates\contact.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679dd1150f9a5_83621319',
+  'unifunc' => 'content_5681a0c086e312_11097591',
   'file_dependency' => 
   array (
     '5f2e1a78464259a4038445a75e1dc409ce03d6bc' => 
@@ -17,7 +17,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5679dd1150f9a5_83621319 ($_smarty_tpl) {
+function content_5681a0c086e312_11097591 ($_smarty_tpl) {
 ?>
 	<section class="sub-bnr">
     <div class="position-center-center">
