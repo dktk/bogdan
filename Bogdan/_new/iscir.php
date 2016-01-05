@@ -6,7 +6,7 @@
 			"Advanced Design - Satu Mare",
 			"Advanced Design - Consultanta si excelenta in instalatii",
 
-			"iscir, iscir satu mare",
+			"iscir, iscir satu mare, iscir ieftin satu mare",
 
 			"iscir"
 	);

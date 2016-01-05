@@ -4,10 +4,10 @@
 	
 	LoadTemplate(
 			"Advanced Design - Satu Mare",
+			
 			"Advanced Design - Portofoliu de proiecte",
 
-			// todo: keywords
-			"Inginer instalator",
+			"Advanced Design Satu Mare, Proiecte Instatalatii, Proiecte Instalatii Satu Mare",
 
 			"portofoliu"
 	);

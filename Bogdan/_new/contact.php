@@ -7,8 +7,7 @@
 
 			"Advanced Design - Contacteaza-ne.",
 
-			// todo: keywords
-			"Inginer instalator",
+			"Inginer instalator Satu Mare, ISCIR, ISCIR Satu Mare, Diriginte Santier Satu Mare",
 
 			"contact",
 
