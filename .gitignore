@@ -39,6 +39,6 @@ Thumbs.db
 Bogdan/cache/**
 Bogdan/templates_c/**
 Bogdan/_new/templates_c/**
-Bogdan/_new/cache/**
+Bogdan\_new\cache\**
 Bogdan/_new/templates_c
 Bogdan/templates_c

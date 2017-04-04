@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-23 01:35:26
+/* Smarty version 3.1.28-dev/77, created on 2017-04-04 01:56:09
   from "D:\projects\Bogdan\Bogdan\_new\templates\portofoliu.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5679ec4e9915c3_72511070',
+  'unifunc' => 'content_58e2e1192f9272_43430677',
   'file_dependency' => 
   array (
     '0ada2f9a3fb6bd17a2f95bc169ecf9ec2d297202' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\portofoliu.php',
-      1 => 1450827861,
+      1 => 1451734143,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5679ec4e9915c3_72511070 ($_smarty_tpl) {
+function content_58e2e1192f9272_43430677 ($_smarty_tpl) {
 ?>
 <section class="sub-bnr">
     <div class="position-center-center">

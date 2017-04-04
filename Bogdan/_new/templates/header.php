@@ -60,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
   <!-- header -->
   <div class="container relative">
     <header>
-      <div class="logo"> <a href="#."><img class="img-responsive" src="images/sigla.png" alt=""></a> </div>
+      <div class="logo"> <a href="/"><img class="img-responsive" src="images/sigla.png" alt=""></a> </div>
       <!-- Top bar -->
       <div class="top-bar">
         <div class="top-info">

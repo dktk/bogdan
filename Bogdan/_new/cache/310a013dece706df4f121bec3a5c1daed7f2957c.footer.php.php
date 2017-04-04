@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-28 21:51:12
+/* Smarty version 3.1.28-dev/77, created on 2017-04-04 02:00:26
   from "D:\projects\Bogdan\Bogdan\_new\templates\footer.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5681a0c08962f7_81682863',
+  'unifunc' => 'content_58e2e21a484b81_70766328',
   'file_dependency' => 
   array (
     '310a013dece706df4f121bec3a5c1daed7f2957c' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\footer.php',
-      1 => 1450830641,
+      1 => 1451734141,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5681a0c08962f7_81682863 ($_smarty_tpl) {
+function content_58e2e21a484b81_70766328 ($_smarty_tpl) {
 ?>
   <!-- SUB FOOTER -->
   <section class="sub-footer">
@@ -51,10 +51,10 @@ function content_5681a0c08962f7_81682863 ($_smarty_tpl) {
         <div class="col-md-4"> <img class="margin-bottom-20" src="images/sigla_ba.png" alt="">
           <p>Proiectare si consultanta in instalatii</p>
           <ul class="social">
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-google"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a target="_blank" href="https://www.facebook.com/AvdancedDesign"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://plus.google.com/u/0/107486738031529093383/about"><i class="fa fa-google"></i></a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/advanced-design"><i class="fa fa-linkedin"></i></a></li>
           </ul>
         </div>
 

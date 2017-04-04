@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-28 21:51:12
+/* Smarty version 3.1.28-dev/77, created on 2017-04-04 01:08:13
   from "D:\projects\Bogdan\Bogdan\_new\templates\contact.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5681a0c086e312_11097591',
+  'unifunc' => 'content_58e2d5dd15bb35_65550275',
   'file_dependency' => 
   array (
     '5f2e1a78464259a4038445a75e1dc409ce03d6bc' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\contact.php',
-      1 => 1449609927,
+      1 => 1451734141,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5681a0c086e312_11097591 ($_smarty_tpl) {
+function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
 ?>
 	<section class="sub-bnr">
     <div class="position-center-center">
@@ -76,16 +76,15 @@ function content_5681a0c086e312_11097591 ($_smarty_tpl) {
 					   					<li class="col-sm-12">
                         <label>
 													<input type="text" name="phone" id="phone" class="form-control"
-															placeholder="TELEFON - 0798 765 432" required
-															pattern="^07\d\d\s\d\d\d\s\d\d\d" data-validation="phone"
+															placeholder="TELEFON - 0798765432" required
+															pattern="^07\d\d\d\d\d\d\d\d"
 															data-validation-error-msg-container="#errors-container" />
                         </label>
                       </li>
                       <li class="col-sm-12">
                         <label>
 													<input type="text" name="subject" id="subject"
-															placeholder="SUBIECT" class="form-control" required
-															pattern="^07\d\d\s\d\d\d\s\d\d\d$" data-validation="phone"
+															placeholder="SUBIECT" class="form-control" required															
 															data-validation-error-msg-container="#errors-container" />
 
                         </label>

@@ -1,31 +1,31 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2015-12-28 21:51:12
+/* Smarty version 3.1.28-dev/77, created on 2017-04-04 02:00:26
   from "D:\projects\Bogdan\Bogdan\_new\templates\header.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_5681a0c083a167_64901589',
+  'unifunc' => 'content_58e2e21a2e1813_32848505',
   'file_dependency' => 
   array (
     'a221064086c01aa70dffb774e414f3bd5ef07454' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\header.php',
-      1 => 1450830590,
+      1 => 1491260624,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_5681a0c083a167_64901589 ($_smarty_tpl) {
+function content_58e2e21a2e1813_32848505 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="ro" class="csstransforms csstransforms3d csstransitions"><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Advanced Design - Contacteaza-ne.">
-<meta name="keywords" content="Inginer instalator">
+<meta name="description" content="Advanced Design - Consultanta si excelenta in instalatii">
+<meta name="keywords" content="diriginte de santier, dirigentie de santier, diriginte de santier satu mare, dirigentie de santier satu mare">
 
 
 <title>Advanced Design - Satu Mare</title>
@@ -59,14 +59,29 @@ function content_5681a0c083a167_64901589 ($_smarty_tpl) {
 <![endif]-->
 </head>
 <body>
-
+<!-- Google Tag Manager --> 
+<noscript> 
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-T28G24" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+</noscript> 
+<script> 
+(function (w, d, s, l, i) { 
+                    w[l] = w[l] || []; w[l].push({ 
+                                        'gtm.start': 
+                                        new Date().getTime(), event: 'gtm.js' 
+                    }); var f = d.getElementsByTagName(s)[0], 
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+})(window, document, 'script', 'dataLayer', 'GTM-T28G24');</script> 
+<!-- End Google Tag Manager --> 
+ 	
 <!-- Wrap -->
 <div id="wrap">
 
   <!-- header -->
   <div class="container relative">
     <header>
-      <div class="logo"> <a href="#."><img class="img-responsive" src="images/sigla.png" alt=""></a> </div>
+      <div class="logo"> <a href="/"><img class="img-responsive" src="images/sigla.png" alt=""></a> </div>
       <!-- Top bar -->
       <div class="top-bar">
         <div class="top-info">
@@ -82,11 +97,10 @@ function content_5681a0c083a167_64901589 ($_smarty_tpl) {
             </li>
           </ul>
           <ul class="social">
-            <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#."><i class="fa fa-google"></i></a></li>
-            <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-          </ul>
+        <li><a target="_blank" href="https://www.facebook.com/AvdancedDesign"><i class="fa fa-facebook"></i></a></li>
+            <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://plus.google.com/u/0/107486738031529093383/about"><i class="fa fa-google"></i></a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/advanced-design"><i class="fa fa-linkedin"></i></a></li>   </ul>
         </div>
 
         <!-- Navigation -->
@@ -96,8 +110,9 @@ function content_5681a0c083a167_64901589 ($_smarty_tpl) {
                 					<li ><a href="/">Acasa</a></li>
     				    					<li ><a href="proiectare.php">Proiectare</a></li>
     				    					<li ><a href="iscir.php">ISCIR</a></li>
-    				    					<li ><a href="diriginte-de-santier.php">Diriginte de santier</a></li>
+    				    					<li class="active"><a href="diriginte-de-santier.php">Diriginte de santier</a></li>
     				    					<li ><a href="portofoliu.php">Portofoliu</a></li>
+    				    					<li ><a href="autorizatii_de_securitate_la_incendiu.php">Autorizatii de securitate la incendiu</a></li>
     				          </ul>
 
           <!-- GET A QUOTES -->

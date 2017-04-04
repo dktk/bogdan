@@ -70,7 +70,7 @@
 	</div>
 	<div class="service">
 		<a id="sanitare"></a>
-		<h4>Proiectare si executie instalatii de sanitare</h4>
+		<h4>Proiectare si executie instalatii sanitare</h4>
 		<ul class="cate">
 			<li> Instalatii interioare si exterioare de alimentare cu apa </li>
 			<li> Instalatii de preparare si alimentare cu apa calda de consum menajer</li>
@@ -82,7 +82,7 @@
 
 	<div class="service">
 		<a id="electrice"></a>
-		<h4>Proiectare si executie instalatii de electrice</h4>
+		<h4>Proiectare si executie instalatii electrice</h4>
 		<ul class="cate">
 			<li>	Instalatii interioare si exterioare de iluminat </li>
 			<li>	Instalatii interioare si exterioare de forta </li>
