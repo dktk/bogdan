@@ -21,7 +21,9 @@ function LoadTemplateWithScripts($title, $description, $keywords, $template, $sc
 				'ISCIR' => 'iscir.php',
 				'Diriginte de santier' => 'diriginte-de-santier.php',
 				'Portofoliu'=>'portofoliu.php',
-				'Autorizatii de securitate la incendiu' => 'autorizatii_de_securitate_la_incendiu.php');
+				'Autorizatii de securitate la incendiu' => 'autorizatii-de-securitate-la-incendiu.php',
+				'Certificat energetic' => 'certificat-energetic.php',
+				'Audit energetic' => 'audit-energetic.php');
 
 	$smarty->assignByRef('SelMenu', $template);
 	$smarty->assignByRef('Menu', $menu);

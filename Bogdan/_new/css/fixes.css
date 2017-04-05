@@ -5,6 +5,9 @@ body {
 header .logo img {
 	margin-left:36px;
 }
+li {
+	list-style: circle;
+}
 a.anchor {
 	border-bottom: dashed #ffbe00;
 	padding-bottom: 0.3px;
