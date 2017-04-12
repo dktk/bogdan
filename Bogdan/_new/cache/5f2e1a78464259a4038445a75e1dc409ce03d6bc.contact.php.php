@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2017-04-04 01:08:13
+/* Smarty version 3.1.28-dev/77, created on 2017-04-12 03:16:05
   from "D:\projects\Bogdan\Bogdan\_new\templates\contact.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_58e2d5dd15bb35_65550275',
+  'unifunc' => 'content_58ed7fd5d06952_28986040',
   'file_dependency' => 
   array (
     '5f2e1a78464259a4038445a75e1dc409ce03d6bc' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\contact.php',
-      1 => 1451734141,
+      1 => 1491959762,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
+function content_58ed7fd5d06952_28986040 ($_smarty_tpl) {
 ?>
 	<section class="sub-bnr">
     <div class="position-center-center">
@@ -57,58 +57,57 @@ function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
 
                   <!-- FORM -->
                   <form role="form" id="contact_form" class="contact-form" method="post" action="send_message.php">
-                    <ul class="row">
-                      <li class="col-sm-12">
+                    <div class="row">
+                      <div class="col-sm-12">
                         <label>
                           <input type="text" class="form-control" name="name" id="name"
 														required placeholder="NUME"
 														data-validation-error-msg-container="#errors-container" />
                         </label>
-                      </li>
-                      <li class="col-sm-12">
+                      </div>
+                      <div class="col-sm-12">
                         <label>
 													<input type="text" name="email" id="email"
 														class="form-control" placeholder="EMAIL"
 														data-validation="email" required
 														data-validation-error-msg-container="#errors-container" />
                         </label>
-                      </li>
-					   					<li class="col-sm-12">
+                      </div>
+					   					<div class="col-sm-12">
                         <label>
 													<input type="text" name="phone" id="phone" class="form-control"
-															placeholder="TELEFON - 0798765432" required
-															pattern="^07\d\d\d\d\d\d\d\d"
+															placeholder="TELEFON" required
 															data-validation-error-msg-container="#errors-container" />
                         </label>
-                      </li>
-                      <li class="col-sm-12">
+                      </div>
+                      <div class="col-sm-12">
                         <label>
 													<input type="text" name="subject" id="subject"
 															placeholder="SUBIECT" class="form-control" required															
 															data-validation-error-msg-container="#errors-container" />
 
                         </label>
-                      </li>
-                      <li class="col-sm-12 margin-top-20">
+                      </div>
+                      <div class="col-sm-12 margin-top-20">
                         <label>
                           <textarea class="form-control" name="message" id="message" rows="5" placeholder="MESAJ"></textarea>
                         </label>
-                      </li>
-											<li>
+                      </div>
+											<div>
 													<input type="text" class="honey" name="honey" id="honey" />
-											</li>
-                      <li class="col-sm-12">
+											</div>
+                      <div class="col-sm-12">
                         <button type="submit" value="submit" id="btn_submit" class="btn btn-yellow" onclick="proceed();">Trimite</button>
-                      </li>
-                    </ul>
+                      </div>
+                    </div>
                   </form>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
-            <ul class="services-intro">
-              <li>
+            <div class="services-intro">
+              <div>
                 <div class="media-left">
                   <div class="icon"><img src="images/intro-icon-2.png" alt=""></div>
                 </div>
@@ -116,8 +115,8 @@ function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
                   <h6 class="font-normal margin-bottom-10">Proiectare</h6>
                   <p>Solutii optime, individualizate</p>
                 </div>
-              </li>
-                <li>
+              </div>
+                <div>
                 <div class="media-left">
                   <div class="icon"><img src="images/intro-icon-5.png" alt=""></div>
                 </div>
@@ -125,8 +124,8 @@ function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
                   <h6 class="font-normal margin-bottom-10">Expertiza</h6>
                   <p>Experienta si inovatie</p>
                 </div>
-              </li>
-              <li>
+              </div>
+              <div>
                 <div class="media-left">
                   <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
                 </div>
@@ -134,8 +133,8 @@ function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
                   <h6 class="font-normal margin-bottom-10">Verificari periodice</h6>
                   <p>Siguranta si eficienta</p>
                 </div>
-              </li>
-							<li>
+              </div>
+							<div>
 								<div class="media-left">
 									<div class="icon"><img src="images/intro-icon-4.png" alt=""></div>
 								</div>
@@ -143,8 +142,8 @@ function content_58e2d5dd15bb35_65550275 ($_smarty_tpl) {
 									<h6 class="font-normal margin-bottom-10">Seriozitate</h6>
 									<p></p>
 								</div>
-							</li>
-            </ul>
+							</div>
+            </div>
           </div>
         </div>
       </div>

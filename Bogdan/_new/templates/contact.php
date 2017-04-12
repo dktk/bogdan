@@ -36,58 +36,57 @@
 
                   <!-- FORM -->
                   <form role="form" id="contact_form" class="contact-form" method="post" action="send_message.php">
-                    <ul class="row">
-                      <li class="col-sm-12">
+                    <div class="row">
+                      <div class="col-sm-12">
                         <label>
                           <input type="text" class="form-control" name="name" id="name"
 														required placeholder="NUME"
 														data-validation-error-msg-container="#errors-container" />
                         </label>
-                      </li>
-                      <li class="col-sm-12">
+                      </div>
+                      <div class="col-sm-12">
                         <label>
 													<input type="text" name="email" id="email"
 														class="form-control" placeholder="EMAIL"
 														data-validation="email" required
 														data-validation-error-msg-container="#errors-container" />
                         </label>
-                      </li>
-					   					<li class="col-sm-12">
+                      </div>
+					   					<div class="col-sm-12">
                         <label>
 													<input type="text" name="phone" id="phone" class="form-control"
-															placeholder="TELEFON - 0798765432" required
-															pattern="^07\d\d\d\d\d\d\d\d"
+															placeholder="TELEFON" required
 															data-validation-error-msg-container="#errors-container" />
                         </label>
-                      </li>
-                      <li class="col-sm-12">
+                      </div>
+                      <div class="col-sm-12">
                         <label>
 													<input type="text" name="subject" id="subject"
 															placeholder="SUBIECT" class="form-control" required															
 															data-validation-error-msg-container="#errors-container" />
 
                         </label>
-                      </li>
-                      <li class="col-sm-12 margin-top-20">
+                      </div>
+                      <div class="col-sm-12 margin-top-20">
                         <label>
                           <textarea class="form-control" name="message" id="message" rows="5" placeholder="MESAJ"></textarea>
                         </label>
-                      </li>
-											<li>
+                      </div>
+											<div>
 													<input type="text" class="honey" name="honey" id="honey" />
-											</li>
-                      <li class="col-sm-12">
+											</div>
+                      <div class="col-sm-12">
                         <button type="submit" value="submit" id="btn_submit" class="btn btn-yellow" onclick="proceed();">Trimite</button>
-                      </li>
-                    </ul>
+                      </div>
+                    </div>
                   </form>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-md-4">
-            <ul class="services-intro">
-              <li>
+            <div class="services-intro">
+              <div>
                 <div class="media-left">
                   <div class="icon"><img src="images/intro-icon-2.png" alt=""></div>
                 </div>
@@ -95,8 +94,8 @@
                   <h6 class="font-normal margin-bottom-10">Proiectare</h6>
                   <p>Solutii optime, individualizate</p>
                 </div>
-              </li>
-                <li>
+              </div>
+                <div>
                 <div class="media-left">
                   <div class="icon"><img src="images/intro-icon-5.png" alt=""></div>
                 </div>
@@ -104,8 +103,8 @@
                   <h6 class="font-normal margin-bottom-10">Expertiza</h6>
                   <p>Experienta si inovatie</p>
                 </div>
-              </li>
-              <li>
+              </div>
+              <div>
                 <div class="media-left">
                   <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
                 </div>
@@ -113,8 +112,8 @@
                   <h6 class="font-normal margin-bottom-10">Verificari periodice</h6>
                   <p>Siguranta si eficienta</p>
                 </div>
-              </li>
-							<li>
+              </div>
+							<div>
 								<div class="media-left">
 									<div class="icon"><img src="images/intro-icon-4.png" alt=""></div>
 								</div>
@@ -122,8 +121,8 @@
 									<h6 class="font-normal margin-bottom-10">Seriozitate</h6>
 									<p></p>
 								</div>
-							</li>
-            </ul>
+							</div>
+            </div>
           </div>
         </div>
       </div>

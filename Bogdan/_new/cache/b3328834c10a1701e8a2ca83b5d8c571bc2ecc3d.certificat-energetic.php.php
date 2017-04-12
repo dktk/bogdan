@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2017-04-05 08:44:57
+/* Smarty version 3.1.28-dev/77, created on 2017-04-12 03:11:12
   from "D:\projects\Bogdan\Bogdan\_new\templates\certificat-energetic.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_58e492696b06e7_50519380',
+  'unifunc' => 'content_58ed7eb0dfa783_89801338',
   'file_dependency' => 
   array (
     'b3328834c10a1701e8a2ca83b5d8c571bc2ecc3d' => 
@@ -17,7 +17,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_58e492696b06e7_50519380 ($_smarty_tpl) {
+function content_58ed7eb0dfa783_89801338 ($_smarty_tpl) {
 ?>
 <section class="sub-bnr">
 	<div class="position-center-center">

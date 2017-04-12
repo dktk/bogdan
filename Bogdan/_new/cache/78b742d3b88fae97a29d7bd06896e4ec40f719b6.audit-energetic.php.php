@@ -1,3 +1,24 @@
+<?php
+/* Smarty version 3.1.28-dev/77, created on 2017-04-12 03:13:21
+  from "D:\projects\Bogdan\Bogdan\_new\templates\audit-energetic.php" */
+
+if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
+  'has_nocache_code' => false,
+  'version' => '3.1.28-dev/77',
+  'unifunc' => 'content_58ed7f310ad084_56975840',
+  'file_dependency' => 
+  array (
+    '78b742d3b88fae97a29d7bd06896e4ec40f719b6' => 
+    array (
+      0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\audit-energetic.php',
+      1 => 1491959597,
+      2 => 'file',
+    ),
+  ),
+  'cache_lifetime' => 3600,
+),true)) {
+function content_58ed7f310ad084_56975840 ($_smarty_tpl) {
+?>
 <section class="sub-bnr">
 	<div class="position-center-center">
 		<div class="container">
@@ -67,4 +88,5 @@ Blocurile si cladirile care se reabiliteaza din punct de vedere energetic au obl
 
     </div>
 </div>
-</section>
+</section><?php }
+}
