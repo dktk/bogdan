@@ -16,7 +16,9 @@
 <section class="content-page padding-top-100 padding-bottom-100 line-height-22 diriginte">
 	<div class="container">
 		<div class="project-detail margin-top-50 margin-bottom-50">
-           <h2 class="font-normal margin-bottom-30">PENTRU CE CLADIRI NU SE FACE <span class="primary-color">AUDIT ENERGETIC ?</span></h2>
+           <h2 class="font-normal margin-bottom-30">CERTIFICAT <span class="primary-color"> ENERGETIC</span></h2>
+		   
+		   <h4>PENTRU CE CLADIRI NU SE FACE AUDIT ENERGETIC ?</h4>
 
 			 <p>Este important sa se faca DIFERENTA intre auditul energetic si certificatul energetic al unei cladiri. 
 </p><p>Daca CERTIFICATUL ENERGETIC reprezinta un document prin care este indicată performanţa energetică a unei clădiri sau a unei unităţi de clădire din punct de vedere al consumurilor de energie, AUDITUL ENERGETIC vine si cu solutii pentru imbunatatirea performantei energetice a acesteia. </p>
@@ -30,7 +32,7 @@
 </p>
 
 </br>
- <h2 class="font-normal margin-bottom-30">CARE ESTE <span class="primary-color">SCOPUL ?</span></h2>
+ <h4>CARE ESTE SCOPUL ?</h4>
 
 <p>
 Scopul principal in realizarea auditului energetic este identificarea de masuri pentru reabilitarea si modernizarea energetica a cladirii pentru a  reduce consumurile de energie pentru incalzire, apa calda menajera, iluminat, ventilare si climatizare si asigurarea unui microclimat confortabil. O data cu reducerea consumurilor de energie se reduc implicit si emisiile de gaze poluante rezultate iar cladirea trece intr-o clasa energetica superioara.
@@ -41,14 +43,12 @@ Blocurile si cladirile care se reabiliteaza din punct de vedere energetic au obl
 </p>
 
 </br>
-<h2 class="font-normal margin-bottom-30">CARE SUNT PASII PENTRU ELABORAREA UNUI <span class="primary-color">AUDIT ENERGETIC ?</span></h2>
+<h4>CARE SUNT PASII PENTRU ELABORAREA UNUI AUDIT ENERGETIC ?</h4>
 
 
 		<p>
 		Pasii care trebuie urmati pentru obtinerea auditului energetic sunt urmatorii :
 		</p>
-
-
 
 		<ul>
 			<li>	Pentru inceput  se vor determina consumurile reale de energie ale cladirii, in conditiile normale de functionare. Pe baza rezultatelor se va realiza un raport de expertiza.
@@ -59,7 +59,7 @@ Blocurile si cladirile care se reabiliteaza din punct de vedere energetic au obl
 		</ul>
 
 		<br />
-		<h2 class="font-normal margin-bottom-30">CINE POATE SA FACA UN <span class="primary-color">AUDIT ENERGETIC ?</span></h2>
+		<h4>CINE POATE SA FACA UN AUDIT ENERGETIC ?</h4>
 		
 		<p>Trebuie de mentionat faptul ca auditul energetic se poate realiza doar de catre auditori energetici gradul I atestati de catre Ministerul Dezvoltarii Regionale, Administratiei Publice si Fondurilor Europene.</p>
 

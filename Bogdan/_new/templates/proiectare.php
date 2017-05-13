@@ -16,7 +16,7 @@
 	<section class="content-page padding-top-100 padding-bottom-100 line-height-22 services">
 		<div class="container">
 			<div class="project-detail margin-top-50 margin-bottom-50">
-				<h2 class="font-normal margin-bottom-30">Proiectare instalatii pentru <span class="primary-color">confort</span></h2>
+				<h2 class="font-normal margin-bottom-30">Proiectare in <span class="primary-color">constructii</span></h2>
 <p>
 	Proiectarea in constructii are la baza Legea 10 din 1995 cu modificarile si completarile ulterioare, precum si alte legi si normative specifice. Inginerul de instalatii, impreuna cu arhitectul si inginerul structurist sunt persoanele care elaboreaza documentatia tehnica, care sta la baza succesului in constructii, success de care se bucura beneficiarul investitiei.
 </p>
@@ -25,27 +25,6 @@
 </p>
 
 <p>ADVANCED DESIGN asigura ca serivicii de proiectare urmatoarele:</p>
-
-<div class="service">
-	<a id="structura-arhitectura"></a>
-	<h4>PROIECTARE STRUCTURA SI ARHITECTURA</h4>
-	<ul class="cate">
-		<li> Documentatii pentru obtinerea certificatului de urbanism </li>
-		<li> Documentatii pentru obtinerea avizelor necesare obtinerii autorizatiei de construire sau demolare</li>
-		<li>
-			Proiecte complete arhitectura, structura si instalatii pentru:
-			<ul>
-				<li>Cladiri civile: locuinte, case de vacanta, cladiri de apartamente, cladiri de birouri, scoli si gradinite</li>
-				<li>Cladiri industriale: hale de depozitare, hale de productie, anexe tehnice</li>
-			</ul>
-		</li>
-		<li> Proiectarea, avizarea si executia instalatiilor noi pentru consumatori industriali si casnici care nu sunt alimentati cu gaze naturale</li>
-		<li> Proiectarea, avizarea si executia instalatiilor de separare a consumului de gaze naturale pentru apartamente situate in imobile cu contorizare comuna</li>
-		<li> Proiectarea, avizarea si executia modificarilor in cadrul instalatiilor existente (renominalizare, marire, modificare traseu)</li>
-		<li> Montarea contoarelor pasante in apartamentele blocurilor cu contorizare comuna pentru stabilirea consumului la masina de aragaz</li>
-	</ul>
-</div>
-
 
 <div class="service">
 	<a id="gaz"></a>
@@ -79,6 +58,7 @@
 			</li>
 		</ul>
 	</div>
+	
 
 	<div class="service">
 		<a id="electrice"></a>
@@ -87,6 +67,22 @@
 			<li>	Instalatii interioare si exterioare de iluminat </li>
 			<li>	Instalatii interioare si exterioare de forta </li>
 			<li>	Instalatii de curenti slabi </li>
+		</ul>
+	</div>
+	
+	<div class="service">
+		<a id="structura-arhitectura"></a>
+		<h4>PROIECTARE STRUCTURA SI ARHITECTURA</h4>
+		<ul>
+			<li> Documentatii pentru obtinerea certificatului de urbanism </li>
+			<li> Documentatii pentru obtinerea avizelor necesare obtinerii autorizatiei de construire sau demolare</li>
+			<li>
+				Proiecte complete arhitectura, structura si instalatii pentru:
+				<ul class="cate">
+					<li>Cladiri civile: locuinte, case de vacanta, cladiri de apartamente, cladiri de birouri, scoli si gradinite</li>
+					<li>Cladiri industriale: hale de depozitare, hale de productie, anexe tehnice</li>
+				</ul>
+			</li>
 		</ul>
 	</div>
 		</div>

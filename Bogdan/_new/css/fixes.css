@@ -1,12 +1,21 @@
 body {
 	font-size: 1.8em;
 }
-
+p {
+	color: #000;
+}
+header {
+	padding-left:0;
+}
+header .logo {
+	padding-right:0px;
+	width: 15%;
+}
 header .logo img {
 	margin-left:36px;
 }
-li {
-	list-style: circle;
+.top-bar {
+	width:85%;
 }
 a.anchor {
 	border-bottom: dashed #ffbe00;
@@ -79,7 +88,7 @@ header .quotes a:hover {
 	font-size: 1em;
 }
 
-.services .service .cate li {
+.services .service .cate li{
 	margin-left: 25px;
 	border:none;
 	line-height: 35px;

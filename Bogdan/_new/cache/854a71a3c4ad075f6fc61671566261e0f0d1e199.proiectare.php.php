@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2017-04-12 03:11:35
+/* Smarty version 3.1.28-dev/77, created on 2017-05-13 11:45:25
   from "D:\projects\Bogdan\Bogdan\_new\templates\proiectare.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_58ed7ec7783529_51085496',
+  'unifunc' => 'content_5916d5b500ae18_16059265',
   'file_dependency' => 
   array (
     '854a71a3c4ad075f6fc61671566261e0f0d1e199' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\proiectare.php',
-      1 => 1491261333,
+      1 => 1493648133,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_58ed7ec7783529_51085496 ($_smarty_tpl) {
+function content_5916d5b500ae18_16059265 ($_smarty_tpl) {
 ?>
 		<section class="sub-bnr">
     <div class="position-center-center">
@@ -37,7 +37,7 @@ function content_58ed7ec7783529_51085496 ($_smarty_tpl) {
 	<section class="content-page padding-top-100 padding-bottom-100 line-height-22 services">
 		<div class="container">
 			<div class="project-detail margin-top-50 margin-bottom-50">
-				<h2 class="font-normal margin-bottom-30">Proiectare instalatii pentru <span class="primary-color">confort</span></h2>
+				<h2 class="font-normal margin-bottom-30">Proiectare in <span class="primary-color">constructii</span></h2>
 <p>
 	Proiectarea in constructii are la baza Legea 10 din 1995 cu modificarile si completarile ulterioare, precum si alte legi si normative specifice. Inginerul de instalatii, impreuna cu arhitectul si inginerul structurist sunt persoanele care elaboreaza documentatia tehnica, care sta la baza succesului in constructii, success de care se bucura beneficiarul investitiei.
 </p>
@@ -47,25 +47,6 @@ function content_58ed7ec7783529_51085496 ($_smarty_tpl) {
 
 <p>ADVANCED DESIGN asigura ca serivicii de proiectare urmatoarele:</p>
 
-<div class="service">
-	<a id="structura-arhitectura"></a>
-	<h4>PROIECTARE STRUCTURA SI ARHITECTURA</h4>
-	<ul class="cate">
-		<li> Documentatii pentru obtinerea certificatului de urbanism </li>
-		<li> Documentatii pentru obtinerea avizelor necesare obtinerii autorizatiei de construire sau demolare</li>
-		<li>
-			Proiecte complete arhitectura, structura si instalatii pentru:
-			<ul>
-				<li>Cladiri civile: locuinte, case de vacanta, cladiri de apartamente, cladiri de birouri, scoli si gradinite</li>
-				<li>Cladiri industriale: hale de depozitare, hale de productie, anexe tehnice</li>
-			</ul>
-		</li>
-		<li> Proiectarea, avizarea si executia instalatiilor noi pentru consumatori industriali si casnici care nu sunt alimentati cu gaze naturale</li>
-		<li> Proiectarea, avizarea si executia instalatiilor de separare a consumului de gaze naturale pentru apartamente situate in imobile cu contorizare comuna</li>
-		<li> Proiectarea, avizarea si executia modificarilor in cadrul instalatiilor existente (renominalizare, marire, modificare traseu)</li>
-		<li> Montarea contoarelor pasante in apartamentele blocurilor cu contorizare comuna pentru stabilirea consumului la masina de aragaz</li>
-	</ul>
-</div>
 
 
 <div class="service">
@@ -100,6 +81,7 @@ function content_58ed7ec7783529_51085496 ($_smarty_tpl) {
 			</li>
 		</ul>
 	</div>
+	
 
 	<div class="service">
 		<a id="electrice"></a>
@@ -108,6 +90,22 @@ function content_58ed7ec7783529_51085496 ($_smarty_tpl) {
 			<li>	Instalatii interioare si exterioare de iluminat </li>
 			<li>	Instalatii interioare si exterioare de forta </li>
 			<li>	Instalatii de curenti slabi </li>
+		</ul>
+	</div>
+	
+	<div class="service">
+		<a id="structura-arhitectura"></a>
+		<h4>PROIECTARE STRUCTURA SI ARHITECTURA</h4>
+		<ul class="cate">
+			<li> Documentatii pentru obtinerea certificatului de urbanism </li>
+			<li> Documentatii pentru obtinerea avizelor necesare obtinerii autorizatiei de construire sau demolare</li>
+			<li>
+				Proiecte complete arhitectura, structura si instalatii pentru:
+				<ul>
+					<li>Cladiri civile: locuinte, case de vacanta, cladiri de apartamente, cladiri de birouri, scoli si gradinite</li>
+					<li>Cladiri industriale: hale de depozitare, hale de productie, anexe tehnice</li>
+				</ul>
+			</li>
 		</ul>
 	</div>
 		</div>

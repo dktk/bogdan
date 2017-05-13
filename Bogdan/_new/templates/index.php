@@ -80,6 +80,32 @@
           <!-- INTRO SERVICES -->
           <div class="row">
             <div class="col-md-8">
+              
+
+              <ul class="row">
+                <li class="col-md-6"> <img height="264" class="img-responsive" src="images/certificat-energetic.jpg" alt="">
+                  <div class="intro-ser">
+                    <div class="tag"><img src="images/intro-icon-5.png" alt=""></div>
+                    <h6 class="font-normal no-margin margin-bottom-20">Certificat energetic</h6>
+                    <p>Certificatul energetic este necesar la vanzare, inchiriere, receptie, renovare majora.</p>
+                    <br />
+                    <a href="certificat-energetic.php" class="font-pt cert">detalii</a>
+                  </div>
+                </li>
+
+
+                <li class="col-md-6"> <img class="img-responsive" src="images/audit-energetic.png" alt="">
+                  <div class="intro-ser">
+                    <div class="tag"><img src="images/intro-icon-5.png" alt=""></div>
+                    <h6 class="font-normal no-margin margin-bottom-20">Audit energetic</h6>
+                    <p>Auditul energetic se elaboreaza pentru reabiliarea si modernizarea energetica a cladirii pentru reducerea consumurilor de energie.</p>
+                    <a href="audit-energetic.php" class="font-pt cert">detalii</a>
+                  </div>
+                </li>
+              </ul>
+
+              <br />
+              
               <ul class="row">
 
                 <li class="col-md-6"> <img class="img-responsive" src="images/intro-img-1.jpg" alt="">
@@ -113,6 +139,8 @@
                     <a href="diriginte-de-santier.php" class="font-pt">detalii</a> </div>
                 </li>
               </ul>
+
+              
             </div>
 
             <div class="col-md-4">
@@ -156,6 +184,17 @@
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
+
+                <li>
+                  <div class="media-left">
+                    <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
+                  </div>
+                  <div class="media-body">
+                    <h6 class="font-normal margin-bottom-10"><a href="proiectare.php#structura-arhitectura">Proiectare</a></h6>
+                    <p>Arhitectura si structura</p>
+                  </div>
+                </li>
+                
               </ul>
             </div>
           </div>

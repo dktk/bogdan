@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2017-04-12 03:11:48
+/* Smarty version 3.1.28-dev/77, created on 2017-05-13 11:52:58
   from "D:\projects\Bogdan\Bogdan\_new\templates\iscir.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_58ed7ed45f31f4_73299839',
+  'unifunc' => 'content_5916d77a790dc0_44711660',
   'file_dependency' => 
   array (
     'b45b08dd8f2252550613ba0eff64780776543377' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\iscir.php',
-      1 => 1491262460,
+      1 => 1494669175,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_58ed7ed45f31f4_73299839 ($_smarty_tpl) {
+function content_5916d77a790dc0_44711660 ($_smarty_tpl) {
 ?>
 <section class="sub-bnr">
 	<div class="position-center-center">
@@ -34,8 +34,8 @@ function content_58ed7ed45f31f4_73299839 ($_smarty_tpl) {
 	<div class="scroll"> <a href="#content" class="go-down"></a></div>
 </section>
 
-<section class="content-page padding-top-100 padding-bottom-100 line-height-22">
-	<div class="container">
+<section class="content-page padding-top-100 padding-bottom-100 line-height-22 services">
+	<div class="container service">
 		<div class="project-detail margin-top-50 margin-bottom-50">
 			<h2 class="font-normal margin-bottom-30">Verificarea tehnica periodica <span class="primary-color">ISCIR</span></h2>
 			
@@ -50,12 +50,12 @@ function content_58ed7ed45f31f4_73299839 ($_smarty_tpl) {
 			<br /><br />
 
 <h3>Avantajele verificarii periodice ISCIR</h3>
-<ul>
-	<li> - Intretinerea regulata economiseste energie prin arderea eficienta a combustibilului gazos </li>
-	<li> - Instruirea personalului cu privire la folosirea aparatelor intr-un mod cat mai economic, reducand astfel consumul de energie si de apa </li>
-	<li> - Evaluarea starii aparatului si identificarea din timp a posibilelor defectiuni </li>
-	<li> - Probabilitatea de defectare a aparatului scade </li>
-	<li> - Impiedicarea formarii petelor de rugina pe suprafata arzatorului </li>
+<ul class="cate">
+	<li> Intretinerea regulata economiseste energie prin arderea eficienta a combustibilului gazos </li>
+	<li> Instruirea personalului cu privire la folosirea aparatelor intr-un mod cat mai economic, reducand astfel consumul de energie si de apa </li>
+	<li> Evaluarea starii aparatului si identificarea din timp a posibilelor defectiuni </li>
+	<li> Probabilitatea de defectare a aparatului scade </li>
+	<li> Impiedicarea formarii petelor de rugina pe suprafata arzatorului </li>
 </ul>
 
 <br />
@@ -70,7 +70,7 @@ function content_58ed7ed45f31f4_73299839 ($_smarty_tpl) {
 </p>
 
 <h3> Ce este ISCIR?</h3>
-<p>ISCIR reprezinta prescurtarea de la Inspectia de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune si Instalatiilor de Ridicat - ISCIR, a luat fiinta ca o organizatie tehnica de stat, prin Legea nr. 491/12.02.1910 si Legea nr. 1050/04.04.1928.
+<p>ISCIR reprezinta prescurtarea de la Inspectia de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune si Instalatiilor de Ridicat ISCIR, a luat fiinta ca o organizatie tehnica de stat, prin Legea nr. 491/12.02.1910 si Legea nr. 1050/04.04.1928.
 </p>
 
 <p>In prezent ISCIR este organul de specialitate al administratiei centrale, responsabil in numele statului pentru asigurarea masurilor de functionare in conditii de siguranta a instalatiilor si echipamentelor, stabilit prin Legea nr. 64/2008 privind functionarea in conditii de siguranta a instalatiilor sub presiune, instalatiilor de ridicat si a aparatelor consumatoare de combustibil, republicata in data de 08.07.2011.
@@ -79,26 +79,26 @@ function content_58ed7ed45f31f4_73299839 ($_smarty_tpl) {
 
 Pentru realizarea obiectului de activitate, in domeniul sau de competenta, ISCIR exercita urmatoarele functii:
 
-<ul>
+<ul class="cate">
 	<li>
-	-de autoritate, prin care asigura controlul respectarii prevederilor reglementarilor in domeniu si a regimului de autorizare si verificare tehnica;
+	de autoritate, prin care asigura controlul respectarii prevederilor reglementarilor in domeniu si a regimului de autorizare si verificare tehnica;
 	</li>
 	<li>
-	-de reglementare, prin care asigura elaborarea actelor cu caracter normativ;
+	de reglementare, prin care asigura elaborarea actelor cu caracter normativ;
 	</li>
-	<li>-de reprezentare, prin care asigura cooperarea si schimbul de informatii, pe plan intern si extern, in domeniul sau de activitate, potrivit legislatiei in vigoare.
+	<li>de reprezentare, prin care asigura cooperarea si schimbul de informatii, pe plan intern si extern, in domeniul sau de activitate, potrivit legislatiei in vigoare.
 	</li>
 </ul>
 
 <br />
 <strong>Documente necesare pentru verificarea tehnica periodica ISCIR a centralei termica sau o autorizare ISCIR?</strong>
 
-<ul>
+<ul class="cate">
 	<li>
-	-Proiectul de gaz complet care include partea scrisa, partea desenata, detalii de exectutie, acordul de acces pe baza careuia s-a inctocmit proiectul de gaz si procesele verbale de receptie si punere in functiune a aparatelor consumatoare de cobustibil gazos.
+	Proiectul de gaz complet care include partea scrisa, partea desenata, detalii de exectutie, acordul de acces pe baza careuia s-a inctocmit proiectul de gaz si procesele verbale de receptie si punere in functiune a aparatelor consumatoare de cobustibil gazos.
 	</li>
 	<li>
-	-Daca puterea nominala a centralei este mai mare de 70 kW, ai nevoie si de schema termomecanica a centralei termice avizata de catre RADTI (este inclusa in proiectul instalatiei de incalzire). Acest document nu este necesar in cazul centralelor de apartament.
+	Daca puterea nominala a centralei este mai mare de 70 kW, ai nevoie si de schema termomecanica a centralei termice avizata de catre RADTI (este inclusa in proiectul instalatiei de incalzire). Acest document nu este necesar in cazul centralelor de apartament.
 	</li>
 </ul>
 

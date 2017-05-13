@@ -1,23 +1,23 @@
 <?php
-/* Smarty version 3.1.28-dev/77, created on 2017-04-05 08:11:38
+/* Smarty version 3.1.28-dev/77, created on 2017-05-13 11:39:30
   from "D:\projects\Bogdan\Bogdan\_new\templates\index.php" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.28-dev/77',
-  'unifunc' => 'content_58e48a9a4d51a2_52663108',
+  'unifunc' => 'content_5916d452ceda96_70400073',
   'file_dependency' => 
   array (
     '4fc528ab9510f89adb676576a831b4154378d29a' => 
     array (
       0 => 'D:\\projects\\Bogdan\\Bogdan\\_new\\templates\\index.php',
-      1 => 1451784653,
+      1 => 1493651752,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 3600,
 ),true)) {
-function content_58e48a9a4d51a2_52663108 ($_smarty_tpl) {
+function content_5916d452ceda96_70400073 ($_smarty_tpl) {
 ?>
  <!--======= HOME MAIN SLIDER =========-->
     <section class="home-slider">
@@ -101,6 +101,32 @@ function content_58e48a9a4d51a2_52663108 ($_smarty_tpl) {
           <!-- INTRO SERVICES -->
           <div class="row">
             <div class="col-md-8">
+              
+
+              <ul class="row">
+                <li class="col-md-6"> <img height="264" class="img-responsive" src="images/certificat-energetic.jpg" alt="">
+                  <div class="intro-ser">
+                    <div class="tag"><img src="images/intro-icon-5.png" alt=""></div>
+                    <h6 class="font-normal no-margin margin-bottom-20">Certificat energetic</h6>
+                    <p>Certificatul energetic este necesar la vanzare, inchiriere, receptie, renovare majora.</p>
+                    <br />
+                    <a href="certificat-energetic.php" class="font-pt cert">detalii</a>
+                  </div>
+                </li>
+
+
+                <li class="col-md-6"> <img class="img-responsive" src="images/audit-energetic.png" alt="">
+                  <div class="intro-ser">
+                    <div class="tag"><img src="images/intro-icon-5.png" alt=""></div>
+                    <h6 class="font-normal no-margin margin-bottom-20">Audit energetic</h6>
+                    <p>Auditul energetic se elaboreaza pentru reabiliarea si modernizarea energetica a cladirii pentru reducerea consumurilor de energie.</p>
+                    <a href="audit-energetic.php" class="font-pt cert">detalii</a>
+                  </div>
+                </li>
+              </ul>
+
+              <br />
+              
               <ul class="row">
 
                 <li class="col-md-6"> <img class="img-responsive" src="images/intro-img-1.jpg" alt="">
@@ -134,6 +160,8 @@ function content_58e48a9a4d51a2_52663108 ($_smarty_tpl) {
                     <a href="diriginte-de-santier.php" class="font-pt">detalii</a> </div>
                 </li>
               </ul>
+
+              
             </div>
 
             <div class="col-md-4">
@@ -177,6 +205,17 @@ function content_58e48a9a4d51a2_52663108 ($_smarty_tpl) {
                     <p>Proiectare si executie</p>
                   </div>
                 </li>
+
+                <li>
+                  <div class="media-left">
+                    <div class="icon"><img src="images/intro-icon-6.png" alt=""></div>
+                  </div>
+                  <div class="media-body">
+                    <h6 class="font-normal margin-bottom-10"><a href="proiectare.php#structura-arhitectura">Proiectare</a></h6>
+                    <p>Arhitectura si structura</p>
+                  </div>
+                </li>
+                
               </ul>
             </div>
           </div>
